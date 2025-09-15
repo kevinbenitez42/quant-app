@@ -1,0 +1,112 @@
+Symbol,Company Name,Market Cap,Sector,Industry,Sub-Industry,%IV_Change,IV_PERC
+XOM,EXXON MOBIL CORP,"423,259 M",Energy,"Oil, Gas & Consumable Fuels",Integrated Oil & Gas,0.04,69.0
+VZ,VERIZON COMMUNICATIONS,"213,426 M",Communication Services,Diversified Telecommunication Services,Integrated Telecommunication Services,0.08,85.0
+PM,PHILIP MORRIS INTERNATIONAL INCORPORATION,"158,623 M",Consumer Staples,Tobacco,Tobacco,0.09,70.0
+T,AT&T INC.,"148,120 M",Communication Services,Diversified Telecommunication Services,Integrated Telecommunication Services,0.08,70.0
+IBM,INTERNATIONAL BUSINESS MACHINES CORPORATION,"122,494 M",Information Technology,IT Services,IT Consulting & Other Services,0.05,58.0
+AMT,AMERICAN TOWER CORPORATION,"116,853 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Specialized REITs,0.12,90.0
+CAT,CATERPILLAR INC.,"114,772 M",Industrials,Machinery,Construction Machinery & Heavy Trucks,0.13,79.0
+ADI,ANALOG DEVICES INCORPORATED,"81,568 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,0.02,63.0
+CI,CIGNA CORP,"80,362 M",Health Care,Health Care Providers & Services,Health Care Services,0.02,83.0
+SLB,SCHLUMBERGER NV,"66,729 M",Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,0.05,71.0
+CL,COLGATE-PALMOLIVE CO.,"64,211 M",Consumer Staples,Household Products,Household Products,0.04,79.0
+OXY,OCCIDENTAL PETROLEUM CORPORATION,"59,858 M",Energy,"Oil, Gas & Consumable Fuels",Integrated Oil & Gas,0.04,67.0
+SU,<empty>,"58,388 M",Energy,"Oil, Gas & Consumable Fuels",Integrated Oil & Gas,-0.03,63.0
+VLO,VALERO ENERGY CORPORATION,"57,342 M",Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing,0.09,85.0
+KHC,KRAFT HEINZ CO,"45,840 M",Consumer Staples,Food Products,Packaged Foods & Meats,0.02,91.0
+DOW,DOW INC,"45,048 M",Materials,Chemicals,Commodity Chemicals,0.12,75.0
+KMI,KINDER MORGAN INCORPORATED,"43,150 M",Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,0.07,59.0
+WMB,WILLIAMS COMPANIES INC,"42,496 M",Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,0.05,79.0
+EA,"ELECTRONIC ARTS, INC.","37,349 M",Communication Services,Entertainment,Interactive Home Entertainment,-0.07,48.0
+EEM,<empty>,"36,647 M",,,,0.24,61.0
+ALL,ALLSTATE CORP,"34,260 M",Financials,Insurance,Property & Casualty Insurance,0.09,76.0
+LYB,<empty>,"33,601 M",Materials,Chemicals,Commodity Chemicals,0.23,83.0
+TWTR,TWITTER INC,"29,788 M",Communication Services,Interactive Media & Services,Interactive Media & Services,-0.09,72.0
+VICI,VICI PROPERTIES INC,"28,832 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Specialized REITs,0.35,93.0
+ON,ON SEMICONDUCTOR CORPORATION,"26,131 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,0.05,75.0
+SIRI,SIRIUS XM HOLDINGS INC,"24,010 M",Communication Services,Media,Cable & Satellite,-0.09,2.0
+DAL,DELTA AIR LINES INC,"22,514 M",Industrials,Airlines,Airlines,0.15,94.0
+PCG,PG&E CORPORATION,"21,822 M",Utilities,Electric Utilities,Electric Utilities,-0.01,45.0
+PPL,PPL CORP,"20,848 M",Utilities,Electric Utilities,Electric Utilities,0.0,82.0
+TTWO,TAKE-TWO INTERACTIVE SOFTWARE INC,"20,743 M",Communication Services,Entertainment,Interactive Home Entertainment,0.0,59.0
+EQT,EQT CORPORATION,"17,723 M",Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,-0.04,57.0
+APA,APA CORP (US),"16,509 M",Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,0.05,44.0
+CLX,CLOROX CO,"16,136 M",Consumer Staples,Household Products,Household Products,0.05,90.0
+EZU,<empty>,"16,017 M",,,,0.11,72.0
+KMX,"CARMAX, INC.","15,381 M",Consumer Discretionary,Specialty Retail,Automotive Retail,0.16,94.0
+XLI,<empty>,"13,883 M",,,,-0.03,71.0
+VTRS,VIATRIS INC,"13,578 M",Health Care,Pharmaceuticals,Pharmaceuticals,0.01,48.0
+UAL,UNITED AIRLINES HOLDINGS INC,"13,448 M",Industrials,Airlines,Airlines,0.12,85.0
+HST,"HOST HOTELS & RESORTS, INC.","13,323 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Hotel & Resort REITs,0.18,100.0
+MAS,MASCO CORPORATION,"12,911 M",Industrials,Building Products,Building Products,0.06,76.0
+HAS,"HASBRO, INC.","11,841 M",Consumer Discretionary,Leisure Products,Leisure Products,0.01,62.0
+SCI,SERVICE CORPORATION INTERNATIONAL,"10,899 M",Consumer Discretionary,Diversified Consumer Services,Specialized Consumer Services,0.06,49.0
+RPM,"RPM INTERNATIONAL, INC.","10,472 M",Materials,Chemicals,Specialty Chemicals,0.15,90.0
+NRG,"NRG ENERGY, INC.","10,443 M",Utilities,Electric Utilities,Electric Utilities,-0.04,37.0
+SWN,SOUTHWESTERN ENERGY COMPANY,"10,157 M",Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,-0.13,4.0
+GME,GAMESTOP CORPORATION,"9,827 M",Consumer Discretionary,Specialty Retail,Computer & Electronics Retail,0.04,65.0
+OLN,OLIN CORPORATION,"9,263 M",Materials,Chemicals,Commodity Chemicals,0.14,65.0
+NLSN,NIELSEN HOLDINGS PLC,"8,777 M",Industrials,Professional Services,Research & Consulting Services,0.23,100.0
+OC,OWENS-CORNING,"8,668 M",Industrials,Building Products,Building Products,0.01,75.0
+XLE,<empty>,"8,389 M",,,,0.09,82.0
+MAT,MATTEL INC,"8,262 M",Consumer Discretionary,Leisure Products,Leisure Products,-0.04,59.0
+FLEX,<empty>,"7,492 M",Information Technology,"Electronic Equipment, Instruments & Components",Electronic Manufacturing Services,0.04,51.0
+PPC,PILGRIM'S PRIDE CORPORATION,"7,308 M",Consumer Staples,Food Products,Packaged Foods & Meats,0.08,63.0
+UNM,UNUM GROUP,"7,068 M",Financials,Insurance,Life & Health Insurance,0.04,46.0
+CDK,CDK GLOBAL INC,"6,365 M",Information Technology,Software,Application Software,0.21,86.0
+CC,CHEMOURS CO,"6,329 M",Materials,Chemicals,Diversified Chemicals,0.06,56.0
+HRB,H & R BLOCK INC,"5,658 M",Consumer Discretionary,Diversified Consumer Services,Specialized Consumer Services,0.12,95.0
+FXI,<empty>,"5,608 M",,,,0.04,80.0
+MDU,MDU RESOURCES GROUP INC,"5,511 M",Industrials,Construction & Engineering,Construction & Engineering,0.15,NaN
+RUN,SUNRUN INC,"5,429 M",Industrials,Electrical Equipment,Electrical Components & Equipment,0.1,77.0
+HP,"HELMERICH & PAYNE, INC.","5,217 M",Energy,Energy Equipment & Services,Oil & Gas Drilling,-0.03,26.0
+NRZ,NEW RESIDENTIAL INVESTMENT CORP,"5,074 M",Financials,Mortgage Real Estate Investment Trusts (REITs),Mortgage REITs,0.12,35.0
+SWCH,SWITCH INC,"5,045 M",Information Technology,IT Services,Internet Services & Infrastructure,-0.04,9.0
+IAA,IAA INC (NEW YORK),"5,031 M",Industrials,Commercial Services & Supplies,Diversified Support Services,0.01,56.0
+ICLN,<empty>,"4,974 M",,,,0.1,75.0
+PBF,PBF ENERGY INC,"4,873 M",Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing,0.09,4.0
+CNX,CNX RESOURCES CORP,"4,533 M",Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,0.02,11.0
+GDXJ,<empty>,"4,528 M",,,,0.14,87.0
+CRUS,CIRRUS LOGIC INC,"4,337 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,-0.08,27.0
+PTEN,"PATTERSON-UTI ENERGY, INC.","3,935 M",Energy,Energy Equipment & Services,Oil & Gas Drilling,0.03,8.0
+OIH,<empty>,"3,768 M",,,,0.13,75.0
+DBC,<empty>,"3,742 M",,,,-0.02,76.0
+KOS,<empty>,"3,644 M",Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,0.1,23.0
+AYX,ALTERYX INC,"3,476 M",Information Technology,Software,Application Software,0.03,50.0
+SPWR,SUNPOWER CORPORATION,"3,136 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,0.29,89.0
+RIG,TRANSOCEAN LTD,"2,997 M",Energy,Energy Equipment & Services,Oil & Gas Drilling,0.1,10.0
+NEX,NEXTIER OILFIELD SOLUTIONS INC,"2,706 M",Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,0.0,35.0
+NOVA,SUNNOVA ENERGY INTERNATIONAL INC,"2,494 M",,,,0.02,65.0
+EWG,<empty>,"1,914 M",,,,0.05,71.0
+PLAY,DAVE & BUSTER'S ENTERTAINMENT INC,"1,841 M",Consumer Discretionary,"Hotels, Restaurants & Leisure",Restaurants,-0.14,73.0
+TBT,<empty>,"1,815 M",,,,0.1,81.0
+USO,<empty>,"1,813 M",,,,-0.1,52.0
+GTN,"GRAY TELEVISION, INC.","1,794 M",Communication Services,Media,Broadcasting,0.05,27.0
+EWI,<empty>,"1,705 M",,,,0.06,74.0
+CXW,CORECIVIC INC,"1,490 M",Industrials,Commercial Services & Supplies,Security & Alarm Services,-0.07,68.0
+PUMP,PROPETRO HOLDING CORP,"1,405 M",Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,0.05,17.0
+WTI,"W&T OFFSHORE, INC.","1,210 M",Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,-0.01,35.0
+VERU,VERU INC,"1,051 M",Consumer Staples,Personal Products,Personal Products,-0.03,68.0
+AXL,"AMERICAN AXLE & MANUFACTURING HOLDINGS, INC","1,017 M",Consumer Discretionary,Auto Components,Auto Parts & Equipment,0.35,95.0
+PSQ,<empty>,955 M,,,,0.07,88.0
+IMAX,<empty>,952 M,Communication Services,Entertainment,Movies & Entertainment,0.07,52.0
+UNG,<empty>,748 M,,,,0.08,76.0
+FCG,<empty>,701 M,,,,0.03,69.0
+UUP,<empty>,696 M,,,,-0.44,84.0
+TAN,<empty>,623 M,,,,0.1,79.0
+XOP,<empty>,508 M,,,,0.04,63.0
+NAT,<empty>,419 M,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,-0.08,50.0
+EZA,<empty>,398 M,,,,0.23,81.0
+DBE,<empty>,307 M,,,,-0.21,NaN
+TUR,<empty>,224 M,,,,0.13,61.0
+ACTG,ACACIA RESEARCH - ACACIA TECHNOLOGIES,211 M,Financials,Diversified Financial Services,Specialized Finance,-0.1,NaN
+FXA,<empty>,178 M,,,,0.1,75.0
+PAYS,PAYSIGN INC,85 M,Information Technology,IT Services,Data Processing & Outsourced Services,-0.02,91.0
+UGA,<empty>,70 M,,,,0.01,87.0
+BNO,<empty>,19 M,,,,-0.07,63.0
+PXJ,<empty>,15 M,,,,0.72,NaN
+HJEN,<empty>,0,,,,-0.13,NaN
+/CL[N22],<empty>,0,,,,-0.59,32.0
+/HO[N22],<empty>,0,,,,0.0651,94.0
+/RB[N22],<empty>,0,,,,-0.0903,90.0
+/NG[N22],<empty>,0,,,,0.071,81.0

@@ -1,0 +1,106 @@
+﻿Watchlist 'NASDAQ 100'
+
+NASDAQ 100
+Symbol,Description,Company Name,Market Cap,Sector,Industry,Sub-Industry
+HON,HONEYWELL INTERNATIONAL INC COM,HONEYWELL INTERNATIONAL INCORPORATED,"133,096 M",Industrials,Industrial Conglomerates,Industrial Conglomerates
+PCAR,PACCAR INC COM,PACCAR INC,"30,626 M",Industrials,Machinery,Construction Machinery & Heavy Trucks
+FAST,FASTENAL COM,FASTENAL COMPANY,"31,399 M",Industrials,Trading Companies & Distributors,Trading Companies & Distributors
+CTAS,CINTAS CORP COM,CINTAS CORPORATION,"40,440 M",Industrials,Commercial Services & Supplies,Diversified Support Services
+CPRT,COPART INC COM,"COPART, INC.","27,429 M",Industrials,Commercial Services & Supplies,Diversified Support Services
+VRSK,VERISK ANALYTICS INC COM,VERISK ANALYTICS INCORPORATION,"27,303 M",Industrials,Professional Services,Research & Consulting Services
+CSX,CSX CORP COM,CSX CORPORATION,"70,555 M",Industrials,Road & Rail,Railroads
+ODFL,OLD DOMINION FREIGHT LINE INC COM,"OLD DOMINION FREIGHT LINE, INC.","30,408 M",Industrials,Road & Rail,Trucking
+TSLA,TESLA INC COM,TESLA INC,"747,574 M",Consumer Discretionary,Automobiles,Automobile Manufacturers
+LCID,LUCID GROUP INC COM,LUCID GROUP INC,"31,631 M",Consumer Discretionary,Automobiles,Automobile Manufacturers
+LULU,LULULEMON ATHLETICA INC COM,<empty>,"38,681 M",Consumer Discretionary,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods"
+ABNB,AIRBNB INC COM CL A,AIRBNB INC,"76,041 M",Consumer Discretionary,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines"
+MAR,MARRIOTT INTERNATIONAL INC COM CL A,"MARRIOTT INTERNATIONAL, INC.","56,829 M",Consumer Discretionary,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines"
+BKNG,BOOKING HOLDINGS INC COM,BOOKING HOLDINGS INC,"95,199 M",Consumer Discretionary,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines"
+SBUX,STARBUCKS CORP COM,STARBUCKS CORPORATION,"91,328 M",Consumer Discretionary,"Hotels, Restaurants & Leisure",Restaurants
+MELI,MERCADOLIBRE INC COM,<empty>,"40,916 M",Consumer Discretionary,Internet & Direct Marketing Retail,Internet & Direct Marketing Retail
+JD,JD.COM INC ADR,JD.COM INC,"88,356 M",Consumer Discretionary,Internet & Direct Marketing Retail,Internet & Direct Marketing Retail
+AMZN,AMAZON COM INC COM,"AMAZON.COM, INC.","1,247,161 M",Consumer Discretionary,Internet & Direct Marketing Retail,Internet & Direct Marketing Retail
+EBAY,EBAY INC COM,EBAY INCORPORATED,"26,514 M",Consumer Discretionary,Internet & Direct Marketing Retail,Internet & Direct Marketing Retail
+PDD,PINDUODUO INC ADR,PINDUODUO INC,"64,756 M",Consumer Discretionary,Internet & Direct Marketing Retail,Internet & Direct Marketing Retail
+DLTR,DOLLAR TREE INC COM,"DOLLAR TREE, INCORPORATION","35,920 M",Consumer Discretionary,Multiline Retail,General Merchandise Stores
+ROST,ROSS STORES INC COM,ROSS STORES INCORPORATED,"29,303 M",Consumer Discretionary,Specialty Retail,Apparel Retail
+ORLY,OREILLY AUTOMOTIVE INC NEW COM,"O'REILLY AUTOMOTIVE, INC.","41,598 M",Consumer Discretionary,Specialty Retail,Automotive Retail
+WBA,WALGREENS BOOTS ALLIANCE INC COM,WALGREENS BOOTS ALLIANCE INC,"37,410 M",Consumer Staples,Food & Staples Retailing,Drug Retail
+COST,COSTCO WHOLESALE CORP COM,COSTCO WHOLESALE CORPORATION,"212,749 M",Consumer Staples,Food & Staples Retailing,Hypermarkets & Super Centers
+PEP,PEPSICO INC COM,PEPSICO INC.,"229,055 M",Consumer Staples,Beverages,Soft Drinks
+MNST,MONSTER BEVERAGE CORP COM,MONSTER BEVERAGE CORP,"47,136 M",Consumer Staples,Beverages,Soft Drinks
+KDP,KEURIG DR PEPPER INC COM,KEURIG DR PEPPER INC,"49,791 M",Consumer Staples,Beverages,Soft Drinks
+KHC,KRAFT HEINZ CO COM,KRAFT HEINZ CO,"44,378 M",Consumer Staples,Food Products,Packaged Foods & Meats
+MDLZ,MONDELEZ INTL INC COM CL A,MONDELEZ INTERNATIONAL INCORPORATED,"86,468 M",Consumer Staples,Food Products,Packaged Foods & Meats
+DXCM,DEXCOM INC COM,"DEXCOM, INC.","29,464 M",Health Care,Health Care Equipment & Supplies,Health Care Equipment
+IDXX,IDEXX LABORATORIES INC COM,IDEXX LABORATORIES INCORPORATED,"31,757 M",Health Care,Health Care Equipment & Supplies,Health Care Equipment
+ISRG,INTUITIVE SURGICAL INC COM,"INTUITIVE SURGICAL, INC.","79,828 M",Health Care,Health Care Equipment & Supplies,Health Care Equipment
+ALGN,ALIGN TECHNOLOGY INC COM,"ALIGN TECHNOLOGY, INC.","21,791 M",Health Care,Health Care Equipment & Supplies,Health Care Supplies
+SGEN,SEAGEN INC COM,SEAGEN INC,"25,616 M",Health Care,Biotechnology,Biotechnology
+BIIB,BIOGEN INC COM,BIOGEN INC,"29,428 M",Health Care,Biotechnology,Biotechnology
+REGN,REGENERON PHARMACEUTICALS INC COM,REGENERON PHARMACEUTICALS INCORPORATED,"69,423 M",Health Care,Biotechnology,Biotechnology
+AMGN,AMGEN INC COM,AMGEN INC.,"133,489 M",Health Care,Biotechnology,Biotechnology
+GILD,GILEAD SCIENCES INC COM,"GILEAD SCIENCES, INC.","80,351 M",Health Care,Biotechnology,Biotechnology
+MRNA,MODERNA INC COM,MODERNA INC,"56,414 M",Health Care,Biotechnology,Biotechnology
+VRTX,VERTEX PHARMACEUTICAL COM,VERTEX PHARMACEUTICALS INC,"69,537 M",Health Care,Biotechnology,Biotechnology
+AZN,ASTRAZENECA ADR SPONSORED,ASTRAZENECA PLC,"205,708 M",Health Care,Pharmaceuticals,Pharmaceuticals
+ILMN,ILLUMINA INC COM,"ILLUMINA, INC.","38,113 M",Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services
+CTSH,COGNIZANT TECHNOLO COM CL A,COGNIZANT TECHNOLOGY SOLUTIONS CORPORATION,"38,721 M",Information Technology,IT Services,IT Consulting & Other Services
+FISV,FISERV INC COM,"FISERV, INC.","64,646 M",Information Technology,IT Services,Data Processing & Outsourced Services
+ADP,AUTOMATIC DATA PROCESSING INC COM,"AUTOMATIC DATA PROCESSING, INC.","92,498 M",Information Technology,IT Services,Data Processing & Outsourced Services
+PYPL,PAYPAL HOLDINGS INC COM,PAYPAL HOLDINGS INC,"101,247 M",Information Technology,IT Services,Data Processing & Outsourced Services
+PAYX,PAYCHEX INC COM,"PAYCHEX, INC.","45,517 M",Information Technology,IT Services,Data Processing & Outsourced Services
+VRSN,VERISIGN COM,VERISIGN INCORPORATED,"19,518 M",Information Technology,IT Services,Internet Services & Infrastructure
+OKTA,OKTA INC COM CL A,OKTA INC,"16,519 M",Information Technology,IT Services,Internet Services & Infrastructure
+CDNS,CADENCE DESIGN SYSTEMS INC COM,"CADENCE DESIGN SYSTEMS, INC.","43,887 M",Information Technology,Software,Application Software
+ZM,ZOOM VIDEO COMMUNICATIONS INC COM CL A,ZOOM VIDEO COMMUNICATIONS INC,"32,714 M",Information Technology,Software,Application Software
+ADBE,ADOBE INC COM,ADOBE INC,"205,556 M",Information Technology,Software,Application Software
+WDAY,WORKDAY INC COM CL A,WORKDAY INC,"42,349 M",Information Technology,Software,Application Software
+TEAM,ATLASSIAN CORPORATION PLC COM CL A,ATLASSIAN CORPORATION PLC,"48,647 M",Information Technology,Software,Application Software
+INTU,INTUIT INC COM,INTUIT INC.,"117,643 M",Information Technology,Software,Application Software
+DDOG,DATADOG INC COM CL A,DATADOG INC,"34,088 M",Information Technology,Software,Application Software
+DOCU,DOCUSIGN INC COM,DOCUSIGN INC,"16,914 M",Information Technology,Software,Application Software
+SPLK,SPLUNK INC COM,SPLUNK INC,"17,188 M",Information Technology,Software,Application Software
+ANSS,ANSYS INC COM,"ANSYS, INC.","22,619 M",Information Technology,Software,Application Software
+SNPS,SYNOPSYS INC COM,"SYNOPSYS, INC.","50,091 M",Information Technology,Software,Application Software
+ADSK,AUTODESK INC COM,"AUTODESK, INC.","45,521 M",Information Technology,Software,Application Software
+MSFT,MICROSOFT CORP COM,MICROSOFT CORPORATION,"2,037,962 M",Information Technology,Software,Systems Software
+PANW,PALO ALTO NETWORKS INC COM,PALO ALTO NETWORKS INC,"51,033 M",Information Technology,Software,Systems Software
+ZS,ZSCALER INC COM,ZSCALER INC,"22,457 M",Information Technology,Software,Systems Software
+CRWD,CROWDSTRIKE HOLDINGS INC COM CL A,CROWDSTRIKE HOLDINGS INC,"38,344 M",Information Technology,Software,Systems Software
+FTNT,FORTINET INC COM,FORTINET INCORPORATION,"47,642 M",Information Technology,Software,Systems Software
+CSCO,CISCO SYSTEMS INC COM,CISCO SYSTEMS INCORPORATED,"189,176 M",Information Technology,Communications Equipment,Communications Equipment
+AAPL,APPLE INC COM,APPLE INC.,"2,375,337 M",Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals"
+ASML,ASML HOLDING NV ADR SPONSORED,ASML HOLDING NV,"228,855 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductor Equipment
+KLAC,KLA CORPORATION COM,KLA CORP,"54,478 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductor Equipment
+AMAT,APPLIED MATERIALS INC COM,"APPLIED MATERIALS, INC.","100,888 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductor Equipment
+LRCX,LAM RESEARCH CORP COM,LAM RESEARCH CORPORATION,"71,869 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductor Equipment
+SWKS,SKYWORKS SOLUTIONS INC COM,"SKYWORKS SOLUTIONS, INC.","17,399 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors
+MU,MICRON TECHNOLOGY INC COM,"MICRON TECHNOLOGY, INC.","78,971 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors
+AMD,ADVANCED MICRO DEVICES INC COM,"ADVANCED MICRO DEVICES, INC.","175,135 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors
+MCHP,MICROCHIP TECHNOLOGY COM,MICROCHIP TECHNOLOGY INCORPORATION,"39,952 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors
+MRVL,MARVELL TECHNOLOGY INC COM,MARVELL TECHNOLOGY INC,"51,325 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors
+INTC,INTEL CORP COM,INTEL CORPORATION,"179,732 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors
+AVGO,BROADCOM INC COM,BROADCOM INC,"239,825 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors
+ADI,ANALOG DEVICES INC COM,ANALOG DEVICES INCORPORATED,"86,600 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors
+QCOM,QUALCOMM INC COM,QUALCOMM INCORPORATED,"160,093 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors
+TXN,TEXAS INSTRUMENTS INC COM,TEXAS INSTRUMENTS INCORPORATED,"161,650 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors
+NVDA,NVIDIA CORP COM,NVIDIA CORPORATION,"477,100 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors
+NXPI,NXP SEMICONDUCTORS N V COM,<empty>,"48,283 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors
+TMUS,T-MOBILE US INC COM,T-MOBILE US INC,"170,375 M",Communication Services,Wireless Telecommunication Services,Wireless Telecommunication Services
+CMCSA,COMCAST CORP COM CL A,COMCAST CORPORATION,"194,612 M",Communication Services,Media,Cable & Satellite
+SIRI,SIRIUS XM HOLDINGS INC COM,SIRIUS XM HOLDINGS INC,"24,617 M",Communication Services,Media,Cable & Satellite
+CHTR,CHARTER COMMUNICATIONS INC COM CL A,CHARTER COMMUNICATIONS INC,"82,887 M",Communication Services,Media,Cable & Satellite
+NFLX,NETFLIX INC COM,NETFLIX INC,"89,228 M",Communication Services,Entertainment,Movies & Entertainment
+NTES,NETEASE INC ADR SPONSORED,NETEASE INC - ADR,"67,125 M",Communication Services,Entertainment,Interactive Home Entertainment
+ATVI,ACTIVISION BLIZZARD INC COM,ACTIVISION BLIZZARD INCORPORATION,"60,862 M",Communication Services,Entertainment,Interactive Home Entertainment
+EA,ELECTRONIC ARTS INC COM,"ELECTRONIC ARTS, INC.","39,711 M",Communication Services,Entertainment,Interactive Home Entertainment
+FB,META PLATFORMS INC COM CL A,META PLATFORMS INC,"524,946 M",Communication Services,Interactive Media & Services,Interactive Media & Services
+MTCH,MATCH GROUP INC COM,MATCH GROUP INC,"23,593 M",Communication Services,Interactive Media & Services,Interactive Media & Services
+BIDU,BAIDU INC ADR,BAIDU INC,"49,711 M",Communication Services,Interactive Media & Services,Interactive Media & Services
+GOOG,ALPHABET INC COM CL C,ALPHABET INC,"1,521,713 M",Communication Services,Interactive Media & Services,Interactive Media & Services
+GOOGL,ALPHABET INC COM CL A,ALPHABET INC,"1,520,017 M",Communication Services,Interactive Media & Services,Interactive Media & Services
+AEP,AMERICAN ELECTRIC POWER CO INC COM,"AMERICAN ELECTRIC POWER COMPANY, INC.","52,541 M",Utilities,Electric Utilities,Electric Utilities
+XEL,XCEL ENERGY INC COM,XCEL ENERGY INC.,"41,143 M",Utilities,Electric Utilities,Electric Utilities
+EXC,EXELON CORP COM,EXELON CORPORATION,"48,118 M",Utilities,Electric Utilities,Electric Utilities
+CEG,CONSTELLATION ENERGY CORP COM,CONSTELLATION ENERGY CORP,"21,036 M",Utilities,Electric Utilities,Electric Utilities

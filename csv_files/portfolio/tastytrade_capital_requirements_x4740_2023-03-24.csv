@@ -1,0 +1,230 @@
+Underlying,Description,Margin Type,Instrument Type,Quantity,Exp Date,DTE,Strike Price,Call/Put,Requirement,BP Usage %,Initial Requirement,Maintenance
+Total,,,,,,,,,"$12,790.25",101.2%,"$16,100.00","$16,100.00"
+AEP,AEP Total,,,,,,,,$190.00,1.5%,$250.00,$250.00
+AEP,AEP  Subtotal,,,,,,,,$190.00,1.5%,$250.00,$250.00
+Spread,AEP   230421C00092500,,Equity Option,-1,Apr 21,28d,92.5,Call
+Spread,AEP   230421C00095000,,Equity Option,1,Apr 21,28d,95,Call
+ARKK,ARKK Total,,,,,,,,"$1,364.00",10.8%,"$1,550.00","$1,550.00"
+ARKK,ARKK  Subtotal,,,,,,,,$271.50,2.1%,$500.00,$500.00
+Spread,ARKK  230519P00035000,,Equity Option,1,May 19,56d,35,Put
+Spread,ARKK  230519P00040000,,Equity Option,-1,May 19,56d,40,Put
+ARKK,ARKK  Subtotal,,,,,,,,$210.00,1.7%,$400.00,$400.00
+Spread,ARKK  230428P00036500,,Equity Option,2,Apr 28,35d,36.5,Put
+Spread,ARKK  230428P00038500,,Equity Option,-2,Apr 28,35d,38.5,Put
+ARKK,ARKK  Subtotal,,,,,,,,$882.50,7.0%,$650.00,$650.00
+Spread,ARKK  230421P00031000,,Equity Option,1,Apr 21,28d,31,Put
+Spread,ARKK  230421C00033500,,Equity Option,1,Apr 21,28d,33.5,Call
+Spread,ARKK  230421P00034000,,Equity Option,-1,Apr 21,28d,34,Put
+Spread,ARKK  230421P00035000,,Equity Option,2,Apr 21,28d,35,Put
+Spread,ARKK  230421P00036000,,Equity Option,-2,Apr 21,28d,36,Put
+Spread,ARKK  230421P00039000,,Equity Option,1,Apr 21,28d,39,Put
+Spread,ARKK  230421P00040500,,Equity Option,-1,Apr 21,28d,40.5,Put
+Spread,ARKK  230421C00042000,,Equity Option,-1,Apr 21,28d,42,Call
+C,C Total,,,,,,,,$0.00,0.0%,$100.00,$100.00
+C,C  Subtotal,,,,,,,,$0.00,0.0%,$100.00,$100.00
+Spread,C     230406P00049000,,Equity Option,1,Apr 6,13d,49,Put
+Spread,C     230406P00050000,,Equity Option,-1,Apr 6,13d,50,Put
+CI,CI Total,,,,,,,,$880.00,7.0%,"$1,000.00","$1,000.00"
+CI,CI  Subtotal,,,,,,,,$880.00,7.0%,"$1,000.00","$1,000.00"
+Spread,CI    230519C00290000,,Equity Option,-1,May 19,56d,290,Call
+Spread,CI    230519C00300000,,Equity Option,1,May 19,56d,300,Call
+CLX,CLX Total,,,,,,,,$152.50,1.2%,$250.00,$250.00
+CLX,CLX  Subtotal,,,,,,,,$152.50,1.2%,$250.00,$250.00
+Spread,CLX   230421P00155000,,Equity Option,1,Apr 21,28d,155,Put
+Spread,CLX   230421P00157500,,Equity Option,-1,Apr 21,28d,157.5,Put
+COPX,COPX Total,,,,,,,,$77.50,0.6%,$100.00,$100.00
+COPX,COPX  Subtotal,,,,,,,,$77.50,0.6%,$100.00,$100.00
+Spread,COPX  230421C00039000,,Equity Option,-1,Apr 21,28d,39,Call
+Spread,COPX  230421C00040000,,Equity Option,1,Apr 21,28d,40,Call
+DIS,DIS Total,,,,,,,,$77.50,0.6%,$100.00,$100.00
+DIS,DIS  Subtotal,,,,,,,,$77.50,0.6%,$100.00,$100.00
+Spread,DIS   230428C00101000,,Equity Option,-1,Apr 28,35d,101,Call
+Spread,DIS   230428C00102000,,Equity Option,1,Apr 28,35d,102,Call
+EIX,EIX Total,,,,,,,,$220.00,1.7%,$250.00,$250.00
+EIX,EIX  Subtotal,,,,,,,,$220.00,1.7%,$250.00,$250.00
+Spread,EIX   230421P00055000,,Equity Option,1,Apr 21,28d,55,Put
+Spread,EIX   230421P00057500,,Equity Option,-1,Apr 21,28d,57.5,Put
+Spread,EIX   230421C00072500,,Equity Option,-1,Apr 21,28d,72.5,Call
+Spread,EIX   230421C00075000,,Equity Option,1,Apr 21,28d,75,Call
+EWY,EWY Total,,,,,,,,$189.46,1.5%,$200.00,$200.00
+EWY,EWY  Subtotal,,,,,,,,$189.46,1.5%,$200.00,$200.00
+Spread,EWY   230421P00048000,,Equity Option,1,Apr 21,28d,48,Put
+Spread,EWY   230421P00049000,,Equity Option,-1,Apr 21,28d,49,Put
+Spread,EWY   230421P00051000,,Equity Option,1,Apr 21,28d,51,Put
+Spread,EWY   230421P00052000,,Equity Option,-1,Apr 21,28d,52,Put
+Spread,EWY   230421C00065000,,Equity Option,-1,Apr 21,28d,65,Call
+Spread,EWY   230421C00066000,,Equity Option,1,Apr 21,28d,66,Call
+Spread,EWY   230421C00067000,,Equity Option,-1,Apr 21,28d,67,Call
+Spread,EWY   230421C00068000,,Equity Option,1,Apr 21,28d,68,Call
+EXR,EXR Total,,,,,,,,$145.00,1.1%,$500.00,$500.00
+EXR,EXR  Subtotal,,,,,,,,$145.00,1.1%,$500.00,$500.00
+Spread,EXR   230421P00160000,,Equity Option,1,Apr 21,28d,160,Put
+Spread,EXR   230421P00165000,,Equity Option,-1,Apr 21,28d,165,Put
+FXI,FXI Total,,,,,,,,$57.00,0.5%,$0.00,$0.00
+FXI,FXI  Subtotal,,,,,,,,$57.00,0.5%,$0.00,$0.00
+Spread,FXI   230421C00028000,,Equity Option,1,Apr 21,28d,28,Call
+Spread,FXI   230421C00029000,,Equity Option,-1,Apr 21,28d,29,Call
+HUM,HUM Total,,,,,,,,$297.50,2.4%,$500.00,$500.00
+HUM,HUM  Subtotal,,,,,,,,$297.50,2.4%,$500.00,$500.00
+Spread,HUM   230421P00435000,,Equity Option,1,Apr 21,28d,435,Put
+Spread,HUM   230421P00440000,,Equity Option,-1,Apr 21,28d,440,Put
+Spread,HUM   230421C00520000,,Equity Option,-1,Apr 21,28d,520,Call
+Spread,HUM   230421C00525000,,Equity Option,1,Apr 21,28d,525,Call
+ILMN,ILMN Total,,,,,,,,$380.00,3.0%,$500.00,$500.00
+ILMN,ILMN  Subtotal,,,,,,,,$150.00,1.2%,$0.00,$0.00
+Spread,ILMN  230421C00220000,,Equity Option,1,Apr 21,28d,220,Call
+Spread,ILMN  230421C00222500,,Equity Option,-1,Apr 21,28d,222.5,Call
+ILMN,ILMN  Subtotal,,,,,,,,$230.00,1.8%,$500.00,$500.00
+Spread,ILMN  230428P00220000,,Equity Option,1,Apr 28,35d,220,Put
+Spread,ILMN  230428P00225000,,Equity Option,-1,Apr 28,35d,225,Put
+IP,IP Total,,,,,,,,$4.50,0.0%,$0.00,$0.00
+IP,IP  Subtotal,,,,,,,,$4.50,0.0%,$0.00,$0.00
+Spread,IP    230324C00039000,,Equity Option,1,Mar 24,0d,39,Call
+Spread,IP    230324C00040000,,Equity Option,-1,Mar 24,0d,40,Call
+ISRG,ISRG Total,,,,,,,,$252.62,2.0%,$500.00,$500.00
+ISRG,ISRG  Subtotal,,,,,,,,$252.62,2.0%,$500.00,$500.00
+Spread,ISRG  230414P00195000,,Equity Option,1,Apr 14,21d,195,Put
+Spread,ISRG  230414P00200000,,Equity Option,-1,Apr 14,21d,200,Put
+Spread,ISRG  230414C00255000,,Equity Option,-1,Apr 14,21d,255,Call
+Spread,ISRG  230414C00260000,,Equity Option,1,Apr 14,21d,260,Call
+KMX,KMX Total,,,,,,,,$5.00,0.0%,$100.00,$100.00
+KMX,KMX  Subtotal,,,,,,,,$5.00,0.0%,$100.00,$100.00
+Spread,KMX   230331P00061000,,Equity Option,1,Mar 31,7d,61,Put
+Spread,KMX   230331P00062000,,Equity Option,-1,Mar 31,7d,62,Put
+Spread,KMX   230331C00078000,,Equity Option,-1,Mar 31,7d,78,Call
+Spread,KMX   230331C00079000,,Equity Option,1,Mar 31,7d,79,Call
+MA,MA Total,,,,,,,,$847.00,6.7%,"$1,000.00","$1,000.00"
+MA,MA  Subtotal,,,,,,,,$847.00,6.7%,"$1,000.00","$1,000.00"
+Spread,MA    230519C00390000,,Equity Option,-2,May 19,56d,390,Call
+Spread,MA    230519C00395000,,Equity Option,2,May 19,56d,395,Call
+MCD,MCD Total,,,,,,,,$408.50,3.2%,$500.00,$500.00
+MCD,MCD  Subtotal,,,,,,,,$408.50,3.2%,$500.00,$500.00
+Spread,MCD   230519C00290000,,Equity Option,-1,May 19,56d,290,Call
+Spread,MCD   230519C00295000,,Equity Option,1,May 19,56d,295,Call
+META,META Total,,,,,,,,$130.00,1.0%,$250.00,$250.00
+META,META  Subtotal,,,,,,,,$130.00,1.0%,$250.00,$250.00
+Spread,META  230421P00205000,,Equity Option,1,Apr 21,28d,205,Put
+Spread,META  230421P00207500,,Equity Option,-1,Apr 21,28d,207.5,Put
+MRK,MRK Total,,,,,,,,$704.50,5.6%,$800.00,$800.00
+MRK,MRK  Subtotal,,,,,,,,$448.00,3.5%,$500.00,$500.00
+Spread,MRK   230519C00115000,,Equity Option,-1,May 19,56d,115,Call
+Spread,MRK   230519C00120000,,Equity Option,1,May 19,56d,120,Call
+MRK,MRK  Subtotal,,,,,,,,$256.50,2.0%,$300.00,$300.00
+Spread,MRK   230428C00112000,,Equity Option,-1,Apr 28,35d,112,Call
+Spread,MRK   230428C00115000,,Equity Option,1,Apr 28,35d,115,Call
+NEM,NEM Total,,,,,,,,$125.50,1.0%,$250.00,$250.00
+NEM,NEM  Subtotal,,,,,,,,$125.50,1.0%,$250.00,$250.00
+Spread,NEM   230421C00047500,,Equity Option,-1,Apr 21,28d,47.5,Call
+Spread,NEM   230421C00050000,,Equity Option,1,Apr 21,28d,50,Call
+PEP,PEP Total,,,,,,,,$417.72,3.3%,$500.00,$500.00
+PEP,PEP  Subtotal,,,,,,,,$417.72,3.3%,$500.00,$500.00
+Spread,PEP   230421P00155000,,Equity Option,1,Apr 21,28d,155,Put
+Spread,PEP   230421P00160000,,Equity Option,-1,Apr 21,28d,160,Put
+Spread,PEP   230421C00185000,,Equity Option,-1,Apr 21,28d,185,Call
+Spread,PEP   230421C00190000,,Equity Option,1,Apr 21,28d,190,Call
+SO,SO Total,,,,,,,,$45.00,0.4%,$100.00,$100.00
+SO,SO  Subtotal,,,,,,,,$45.00,0.4%,$100.00,$100.00
+Spread,SO    230406C00068000,,Equity Option,-1,Apr 6,13d,68,Call
+Spread,SO    230406C00069000,,Equity Option,1,Apr 6,13d,69,Call
+SOXL,SOXL Total,,,,,,,,$299.50,2.4%,$600.00,$600.00
+SOXL,SOXL  Subtotal,,,,,,,,$299.50,2.4%,$600.00,$600.00
+Spread,SOXL  230421P00015500,,Equity Option,2,Apr 21,28d,15.5,Put
+Spread,SOXL  230421P00016000,,Equity Option,1,Apr 21,28d,16,Put
+Spread,SOXL  230421P00017000,,Equity Option,-1,Apr 21,28d,17,Put
+Spread,SOXL  230421P00018000,,Equity Option,-2,Apr 21,28d,18,Put
+SPY,SPY Total,,,,,,,,$670.00,5.3%,"$1,100.00","$1,100.00"
+SPY,SPY  Subtotal,,,,,,,,$670.00,5.3%,"$1,100.00","$1,100.00"
+Spread,SPY   230428P00392500,,Equity Option,2,Apr 28,35d,392.5,Put
+Spread,SPY   230428P00395000,,Equity Option,1,Apr 28,35d,395,Put
+Spread,SPY   230428P00397000,,Equity Option,-3,Apr 28,35d,397,Put
+TAN,TAN Total,,,,,,,,$251.45,2.0%,$300.00,$300.00
+TAN,TAN  Subtotal,,,,,,,,$170.00,1.3%,$200.00,$200.00
+Spread,TAN   230519C00084000,,Equity Option,-1,May 19,56d,84,Call
+Spread,TAN   230519C00086000,,Equity Option,1,May 19,56d,86,Call
+TAN,TAN  Subtotal,,,,,,,,$81.45,0.6%,$100.00,$100.00
+Spread,TAN   230421P00066000,,Equity Option,1,Apr 21,28d,66,Put
+Spread,TAN   230421P00067000,,Equity Option,-1,Apr 21,28d,67,Put
+Spread,TAN   230421C00087000,,Equity Option,-1,Apr 21,28d,87,Call
+Spread,TAN   230421C00088000,,Equity Option,1,Apr 21,28d,88,Call
+TLT,TLT Total,,,,,,,,$175.00,1.4%,$200.00,$200.00
+TLT,TLT  Subtotal,,,,,,,,$86.00,0.7%,$100.00,$100.00
+Spread,TLT   230519P00097000,,Equity Option,1,May 19,56d,97,Put
+Spread,TLT   230519P00098000,,Equity Option,-1,May 19,56d,98,Put
+TLT,TLT  Subtotal,,,,,,,,$89.00,0.7%,$100.00,$100.00
+Spread,TLT   230428P00098000,,Equity Option,1,Apr 28,35d,98,Put
+Spread,TLT   230428P00099000,,Equity Option,-1,Apr 28,35d,99,Put
+TMUS,TMUS Total,,,,,,,,$415.00,3.3%,$500.00,$500.00
+TMUS,TMUS  Subtotal,,,,,,,,$415.00,3.3%,$500.00,$500.00
+Spread,TMUS  230519C00155000,,Equity Option,-1,May 19,56d,155,Call
+Spread,TMUS  230519C00160000,,Equity Option,1,May 19,56d,160,Call
+UNG,UNG Total,,,,,,,,$172.00,1.4%,$200.00,$200.00
+UNG,UNG  Subtotal,,,,,,,,$172.00,1.4%,$200.00,$200.00
+Spread,UNG   230519C00009000,,Equity Option,-1,May 19,56d,9,Call
+Spread,UNG   230519C00011000,,Equity Option,1,May 19,56d,11,Call
+UUP,UUP Total,,,,,,,,$110.00,0.9%,$0.00,$0.00
+UUP,UUP  Subtotal,,,,,,,,$110.00,0.9%,$0.00,$0.00
+Spread,UUP   230421P00027000,,Equity Option,-2,Apr 21,28d,27,Put
+Spread,UUP   230421P00028500,,Equity Option,2,Apr 21,28d,28.5,Put
+UVXY,UVXY Total,,,,,,,,$685.00,5.4%,$0.00,$0.00
+UVXY,UVXY  Subtotal,,,,,,,,$471.00,3.7%,$0.00,$0.00
+Spread,UVXY  230519P00004000,,Equity Option,-3,May 19,56d,4,Put
+Spread,UVXY  230519P00005000,,Equity Option,1,May 19,56d,5,Put
+Spread,UVXY  230519P00007000,,Equity Option,2,May 19,56d,7,Put
+UVXY,UVXY  Subtotal,,,,,,,,$214.00,1.7%,$0.00,$0.00
+Spread,UVXY  230421P00004000,,Equity Option,-2,Apr 21,28d,4,Put
+Spread,UVXY  230421P00004500,,Equity Option,-5,Apr 21,28d,4.5,Put
+Spread,UVXY  230421P00005000,,Equity Option,7,Apr 21,28d,5,Put
+VNQ,VNQ Total,,,,,,,,$495.00,3.9%,$600.00,$600.00
+VNQ,VNQ  Subtotal,,,,,,,,$495.00,3.9%,$600.00,$600.00
+Spread,VNQ   230519C00085000,,Equity Option,-3,May 19,56d,85,Call
+Spread,VNQ   230519C00086000,,Equity Option,2,May 19,56d,86,Call
+Spread,VNQ   230519C00087000,,Equity Option,1,May 19,56d,87,Call
+Spread,VNQ   230519C00088000,,Equity Option,-1,May 19,56d,88,Call
+Spread,VNQ   230519C00090000,,Equity Option,1,May 19,56d,90,Call
+WM,WM Total,,,,,,,,$392.50,3.1%,$500.00,$500.00
+WM,WM  Subtotal,,,,,,,,$392.50,3.1%,$500.00,$500.00
+Spread,WM    230421C00160000,,Equity Option,-1,Apr 21,28d,160,Call
+Spread,WM    230421C00165000,,Equity Option,1,Apr 21,28d,165,Call
+WMT,WMT Total,,,,,,,,$152.00,1.2%,$200.00,$200.00
+WMT,WMT  Subtotal,,,,,,,,$152.00,1.2%,$200.00,$200.00
+Spread,WMT   230414C00146000,,Equity Option,-1,Apr 14,21d,146,Call
+Spread,WMT   230414C00148000,,Equity Option,1,Apr 14,21d,148,Call
+XLB,XLB Total,,,,,,,,$80.00,0.6%,$100.00,$100.00
+XLB,XLB  Subtotal,,,,,,,,$80.00,0.6%,$100.00,$100.00
+Spread,XLB   230421P00069000,,Equity Option,1,Apr 21,28d,69,Put
+Spread,XLB   230421P00070000,,Equity Option,-1,Apr 21,28d,70,Put
+Spread,XLB   230421C00085000,,Equity Option,-1,Apr 21,28d,85,Call
+Spread,XLB   230421C00086000,,Equity Option,1,Apr 21,28d,86,Call
+XLC,XLC Total,,,,,,,,$52.50,0.4%,$100.00,$100.00
+XLC,XLC  Subtotal,,,,,,,,$52.50,0.4%,$100.00,$100.00
+Spread,XLC   230421P00048000,,Equity Option,1,Apr 21,28d,48,Put
+Spread,XLC   230421P00049000,,Equity Option,-1,Apr 21,28d,49,Put
+Spread,XLC   230421C00058000,,Equity Option,-1,Apr 21,28d,58,Call
+Spread,XLC   230421C00059000,,Equity Option,1,Apr 21,28d,59,Call
+XLE,XLE Total,,,,,,,,$186.50,1.5%,$200.00,$200.00
+XLE,XLE  Subtotal,,,,,,,,$186.50,1.5%,$200.00,$200.00
+Spread,XLE   230421C00087000,,Equity Option,-1,Apr 21,28d,87,Call
+Spread,XLE   230421C00089000,,Equity Option,1,Apr 21,28d,89,Call
+XLI,XLI Total,,,,,,,,"$1,080.00",8.5%,"$1,400.00","$1,400.00"
+XLI,XLI  Subtotal,,,,,,,,"$1,080.00",8.5%,"$1,400.00","$1,400.00"
+Spread,XLI   230519C00103000,,Equity Option,-8,May 19,56d,103,Call
+Spread,XLI   230519C00104000,,Equity Option,2,May 19,56d,104,Call
+Spread,XLI   230519C00105000,,Equity Option,6,May 19,56d,105,Call
+XLP,XLP Total,,,,,,,,$148.00,1.2%,$200.00,$200.00
+XLP,XLP  Subtotal,,,,,,,,$84.00,0.7%,$100.00,$100.00
+Spread,XLP   230428C00076000,,Equity Option,-1,Apr 28,35d,76,Call
+Spread,XLP   230428C00077000,,Equity Option,1,Apr 28,35d,77,Call
+XLP,XLP  Subtotal,,,,,,,,$64.00,0.5%,$100.00,$100.00
+Spread,XLP   230421C00074000,,Equity Option,-1,Apr 21,28d,74,Call
+Spread,XLP   230421C00075000,,Equity Option,1,Apr 21,28d,75,Call
+XLRE,XLRE Total,,,,,,,,$175.00,1.4%,$200.00,$200.00
+XLRE,XLRE  Subtotal,,,,,,,,$175.00,1.4%,$200.00,$200.00
+Spread,XLRE  230421P00031000,,Equity Option,1,Apr 21,28d,31,Put
+Spread,XLRE  230421P00033000,,Equity Option,-1,Apr 21,28d,33,Put
+Spread,XLRE  230421C00040000,,Equity Option,-1,Apr 21,28d,40,Call
+Spread,XLRE  230421C00042000,,Equity Option,1,Apr 21,28d,42,Call
+XLV,XLV Total,,,,,,,,$280.00,2.2%,$400.00,$400.00
+XLV,XLV  Subtotal,,,,,,,,$280.00,2.2%,$400.00,$400.00
+Spread,XLV   230421C00130000,,Equity Option,-2,Apr 21,28d,130,Call
+Spread,XLV   230421C00131000,,Equity Option,1,Apr 21,28d,131,Call
+Spread,XLV   230421C00133000,,Equity Option,1,Apr 21,28d,133,Call

@@ -1,0 +1,22 @@
+{
+    "sector": "Communication Services",
+    "cusip": "64110L106",
+    "name": "Netflix Inc",
+    "exchange": "NASDAQ",
+    "full_time_employees": 14000,
+    "country": "US",
+    "symbol": "NFLX",
+    "OpenFigi": "BBG000CL9VN6",
+    "company_type": "normal",
+    "qfs_symbol": "NFLX:US",
+    "subindustry": "Movies & Entertainment",
+    "template_type": "normal",
+    "currency": "USD",
+    "CIK": "0001065280",
+    "morningstar_sector": "Communication Services",
+    "morningstar_industry": "Entertainment",
+    "ISIN": "US64110L1061",
+    "industry": "Entertainment",
+    "financials_updated": 20250424,
+    "description": "Netflix, Inc. provides entertainment services. The company offers television (TV) series, documentaries, feature films, and games across various genres and languages. It also provides members the ability to receive streaming content through a host of internet-connected devices, including TVs, digital video players, TV set-top boxes, and mobile devices. The company operates approximately in 190 countries. Netflix, Inc. was incorporated in 1997 and is headquartered in Los Gatos, California."
+}

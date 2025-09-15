@@ -1,0 +1,68 @@
+Market Breadth
+--------------
+calculate basic market internals for the benchmark and its constintuent Sub groups
+Automatically compare an asset with its Subindustry, Industry, Sector
+Create a filter mechanism 
+
+Market Macroeconomics
+---------------------
+Compare leading indicators
+Compare coincedent indicators
+Compare lagging indicators
+
+Options Analysis
+--------------
+Calculate different Options Strategies
+Calculate volatility smile
+Pull in EOD Market Data
+
+Models (Feature extraction & Analysis)
+--------------------------------------
+use feature reduction methods to reduce feature set
+create latent features to create new ones
+
+Models (Basic)
+-------------
+compare different GARCH and ARIMA Models
+
+Models (Deep Learning)
+---------------------------------
+
+Systematic Risk (Cointegration Analysis)
+---------------------------------------
+
+Systematic Risk (Correlation Analysis)
+--------------------------------------
+Calculate Beta Matrix
+find the most uncorrelated portfolio configuration to the market / Benchmark
+minimize the internal correlation between assets
+group assets together and find their internal correlation and broader correlation
+
+Portfolio
+----------
+Calculate Average Portfolio returns and compare to each asset
+
+
+Quantapp (Algorithms)
+--------
+Fix your calculations 
+Calcutate Exponential weighted Median & Mode
+Calculate technical indicators
+Calculate Relative Momentum
+
+
+Quantapp (User Interface)
+-------------------------
+
+Create a framework to plot multiple series on top of each other
+Create a more user friendly input method for data 
+
+
+Learning
+--------
+
+https://towardsdatascience.com/how-to-pick-uncorrelated-stocks-for-an-investment-portfolio-in-python-d75867d1c11e
+
+https://sites.google.com/site/jforexbevezeto/home/quantopian_volatility_ea?tmpl=%2Fsystem%2Fapp%2Ftemplates%2Fprint%2F&showPrintDialog=1
+
+https://github.com/quantopian/alphalens

@@ -1,0 +1,102 @@
+Symbol,Description,Company Name,Market Cap,Sector,Industry,Sub-Industry
+AAPL,APPLE INC COM,APPLE INC.,"2,372,748 M",Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals"
+ABBV,ABBVIE INC COM,ABBVIE INC,"261,465 M",Health Care,Biotechnology,Biotechnology
+ABT,ABBOTT LABORATORIES COM,ABBOTT LABORATORIES,"205,053 M",Health Care,Health Care Equipment & Supplies,Health Care Equipment
+ACN,ACCENTURE PLC COM,ACCENTURE PLC,"193,466 M",Information Technology,IT Services,IT Consulting & Other Services
+ADBE,ADOBE INC COM,ADOBE INC,"205,693 M",Information Technology,Software,Application Software
+AIG,AMER INTL GRP INC COM,"AMERICAN INTERNATIONAL GROUP, INC.","45,522 M",Financials,Insurance,Multi-line Insurance
+AMGN,AMGEN INC COM,AMGEN INC.,"133,475 M",Health Care,Biotechnology,Biotechnology
+AMT,AMERICAN TOWER CORP COM USD0.01,AMERICAN TOWER CORPORATION,"122,658 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Specialized REITs
+AMZN,AMAZON COM INC COM,"AMAZON.COM, INC.","1,249,629 M",Consumer Discretionary,Internet & Direct Marketing Retail,Internet & Direct Marketing Retail
+AVGO,BROADCOM INC COM,BROADCOM INC,"239,316 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors
+AXP,AMERICAN EXPRESS CO COM,AMERICAN EXPRESS COMPANY,"126,047 M",Financials,Consumer Finance,Consumer Finance
+BA,BOEING CO COM,BOEING CO,"82,563 M",Industrials,Aerospace & Defense,Aerospace & Defense
+BAC,BANK OF AMERICA CORPORATION COM,BANK OF AMERICA CORPORATION,"293,585 M",Financials,Banks,Diversified Banks
+BIIB,BIOGEN INC COM,BIOGEN INC,"29,415 M",Health Care,Biotechnology,Biotechnology
+BK,BANK OF NEW YORK MELLON CORP COM,BANK OF NEW YORK MELLON CORP.,"37,203 M",Financials,Capital Markets,Asset Management & Custody Banks
+BKNG,BOOKING HOLDINGS INC COM,BOOKING HOLDINGS INC,"95,200 M",Consumer Discretionary,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines"
+BLK,BLACKROCK INC COM,"BLACKROCK, INCORPORATION","102,209 M",Financials,Capital Markets,Asset Management & Custody Banks
+BMY,BRISTOL-MYERS SQUIBB CO COM,BRISTOL-MYERS SQUIBB COMPANY,"159,733 M",Health Care,Pharmaceuticals,Pharmaceuticals
+BRK/B,BERKSHIRE HATHAWAY INC COM CL B,BERKSHIRE HATHAWAY INC.,"687,244 M",Financials,Diversified Financial Services,Multi-Sector Holdings
+C,CITIGROUP INC COM,CITIGROUP INC.,"100,147 M",Financials,Banks,Diversified Banks
+CAT,CATERPILLAR INC COM,CATERPILLAR INC.,"119,375 M",Industrials,Machinery,Construction Machinery & Heavy Trucks
+CHTR,CHARTER COMMUNICATIONS INC COM CL A,CHARTER COMMUNICATIONS INC,"83,111 M",Communication Services,Media,Cable & Satellite
+CL,COLGATE-PALMOLIVE CO COM,COLGATE-PALMOLIVE CO.,"66,206 M",Consumer Staples,Household Products,Household Products
+CMCSA,COMCAST CORP COM CL A,COMCAST CORPORATION,"194,746 M",Communication Services,Media,Cable & Satellite
+COF,CAPITAL ONE FINANCIAL CORP COM,CAPITAL ONE FINANCIAL CORPORATION,"48,864 M",Financials,Consumer Finance,Consumer Finance
+COP,CONOCOPHILLIPS COM,CONOCOPHILLIPS,"151,903 M",Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production
+COST,COSTCO WHOLESALE CORP COM,COSTCO WHOLESALE CORPORATION,"213,097 M",Consumer Staples,Food & Staples Retailing,Hypermarkets & Super Centers
+CRM,SALESFORCE INC COM,SALESFORCE INC,"187,259 M",Information Technology,Software,Application Software
+CSCO,CISCO SYSTEMS INC COM,CISCO SYSTEMS INCORPORATED,"188,493 M",Information Technology,Communications Equipment,Communications Equipment
+CVS,CVS HEALTH CORPORATION COM,CVS HEALTH CORP,"126,607 M",Health Care,Health Care Providers & Services,Health Care Services
+CVX,CHEVRON CORPORATION COM,CHEVRON CORPORATION,"349,717 M",Energy,"Oil, Gas & Consumable Fuels",Integrated Oil & Gas
+DD,DUPONT DE NEMOURS INC COM,DUPONT DE NEMOURS INC,"34,486 M",Materials,Chemicals,Specialty Chemicals
+DHR,DANAHER CORP COM,DANAHER CORPORATION,"195,293 M",Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services
+DIS,WALT DISNEY COMPANY (THE) COM,WALT DISNEY CO,"198,487 M",Communication Services,Entertainment,Movies & Entertainment
+DOW,DOW INC COM,DOW INC,"49,110 M",Materials,Chemicals,Commodity Chemicals
+DUK,DUKE ENERGY CORP COM,DUKE ENERGY CORPORATION,"85,990 M",Utilities,Electric Utilities,Electric Utilities
+EMR,EMERSON ELECTRIC CO COM,EMERSON ELECTRIC CO,"53,508 M",Industrials,Electrical Equipment,Electrical Components & Equipment
+EXC,EXELON CORP COM,EXELON CORPORATION,"48,040 M",Utilities,Electric Utilities,Electric Utilities
+F,FORD MOTOR CO COM,FORD MOTOR COMPANY,"54,293 M",Consumer Discretionary,Automobiles,Automobile Manufacturers
+FB,META PLATFORMS INC COM CL A,META PLATFORMS INC,"525,406 M",Communication Services,Interactive Media & Services,Interactive Media & Services
+FDX,FEDEX CORP COM,FEDEX CORPORATION,"57,157 M",Industrials,Air Freight & Logistics,Air Freight & Logistics
+GD,GENERAL DYNAMICS CORP COM,GENERAL DYNAMICS CORPORATION,"64,147 M",Industrials,Aerospace & Defense,Aerospace & Defense
+GE,GENERAL ELECTRIC CO COM,GENERAL ELECTRIC COMPANY,"84,135 M",Industrials,Industrial Conglomerates,Industrial Conglomerates
+GILD,GILEAD SCIENCES INC COM,"GILEAD SCIENCES, INC.","80,301 M",Health Care,Biotechnology,Biotechnology
+GM,GENERAL MOTORS CO COM,GENERAL MOTORS COMPANY,"55,275 M",Consumer Discretionary,Automobiles,Automobile Manufacturers
+GOOG,ALPHABET INC COM CL C,ALPHABET INC,"1,521,451 M",Communication Services,Interactive Media & Services,Interactive Media & Services
+GOOGL,ALPHABET INC COM CL A,ALPHABET INC,"1,518,290 M",Communication Services,Interactive Media & Services,Interactive Media & Services
+GS,GOLDMAN SACHS GROUP INC COM,GOLDMAN SACHS GROUP INC,"110,123 M",Financials,Capital Markets,Investment Banking & Brokerage
+HD,HOME DEPOT INC COM,HOME DEPOT INC,"313,887 M",Consumer Discretionary,Specialty Retail,Home Improvement Retail
+HON,HONEYWELL INTERNATIONAL INC COM,HONEYWELL INTERNATIONAL INCORPORATED,"133,124 M",Industrials,Industrial Conglomerates,Industrial Conglomerates
+IBM,INTERNATIONAL BUS MACH CORP COM,INTERNATIONAL BUSINESS MACHINES CORPORATION,"127,729 M",Information Technology,IT Services,IT Consulting & Other Services
+INTC,INTEL CORP COM,INTEL CORPORATION,"179,303 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors
+JNJ,JOHNSON & JOHNSON COM,JOHNSON & JOHNSON,"467,100 M",Health Care,Pharmaceuticals,Pharmaceuticals
+JPM,JP MORGAN CHASE & CO COM,JPMORGAN CHASE & CO.,"384,372 M",Financials,Banks,Diversified Banks
+KHC,KRAFT HEINZ CO COM,KRAFT HEINZ CO,"44,317 M",Consumer Staples,Food Products,Packaged Foods & Meats
+KO,COCA-COLA CO COM,COCA-COLA CO,"273,800 M",Consumer Staples,Beverages,Soft Drinks
+LIN,LINDE PLC COM,LINDE PLC,"167,201 M",Materials,Chemicals,Industrial Gases
+LLY,ELI LILLY AND COMPANY COM,ELI LILLY AND COMPANY,"289,998 M",Health Care,Pharmaceuticals,Pharmaceuticals
+LMT,LOCKHEED MARTIN CORP COM,LOCKHEED MARTIN CORPORATION,"118,218 M",Industrials,Aerospace & Defense,Aerospace & Defense
+LOW,LOWE'S COMPANIES INC COM,LOWE'S COMPANIES INC.,"124,883 M",Consumer Discretionary,Specialty Retail,Home Improvement Retail
+MA,MASTERCARD INCORPORATED COM CL A,"MASTERCARD, INC.","349,812 M",Information Technology,IT Services,Data Processing & Outsourced Services
+MCD,MCDONALD'S CORPORATION COM,MCDONALD'S CORP,"184,299 M",Consumer Discretionary,"Hotels, Restaurants & Leisure",Restaurants
+MDLZ,MONDELEZ INTL INC COM CL A,MONDELEZ INTERNATIONAL INCORPORATED,"86,329 M",Consumer Staples,Food Products,Packaged Foods & Meats
+MDT,MEDTRONIC PLC COM,MEDTRONIC PLC,"129,388 M",Health Care,Health Care Equipment & Supplies,Health Care Equipment
+MET,METLIFE INC COM,"METLIFE, INC.","54,204 M",Financials,Insurance,Life & Health Insurance
+MMM,3M COMPANY COM,3M COMPANY,"83,421 M",Industrials,Industrial Conglomerates,Industrial Conglomerates
+MO,ALTRIA GROUP INC COM,"ALTRIA GROUP, INC.","97,607 M",Consumer Staples,Tobacco,Tobacco
+MRK,MERCK & CO INC COM,"MERCK & CO. , INC.","228,301 M",Health Care,Pharmaceuticals,Pharmaceuticals
+MS,MORGAN STANLEY COM,MORGAN STANLEY,"147,552 M",Financials,Capital Markets,Investment Banking & Brokerage
+MSFT,MICROSOFT CORP COM,MICROSOFT CORPORATION,"2,035,411 M",Information Technology,Software,Systems Software
+NEE,NEXTERA ENERGY INC COM,NEXTERA ENERGY INC,"154,370 M",Utilities,Electric Utilities,Electric Utilities
+NFLX,NETFLIX INC COM,NETFLIX INC,"89,341 M",Communication Services,Entertainment,Movies & Entertainment
+NKE,NIKE INC COM CL B,NIKE INC.,"191,181 M",Consumer Discretionary,"Textiles, Apparel & Luxury Goods",Footwear
+NVDA,NVIDIA CORP COM,NVIDIA CORPORATION,"477,325 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors
+ORCL,ORACLE CORP COM,ORACLE CORPORATION,"192,508 M",Information Technology,Software,Systems Software
+PEP,PEPSICO INC COM,PEPSICO INC.,"228,779 M",Consumer Staples,Beverages,Soft Drinks
+PFE,PFIZER INC COM,PFIZER INC.,"298,752 M",Health Care,Pharmaceuticals,Pharmaceuticals
+PG,PROCTER & GAMBLE CO COM,PROCTER & GAMBLE CO,"348,786 M",Consumer Staples,Household Products,Household Products
+PM,PHILIP MORRIS INTL INC COM,PHILIP MORRIS INTERNATIONAL INCORPORATION,"164,513 M",Consumer Staples,Tobacco,Tobacco
+PYPL,PAYPAL HOLDINGS INC COM,PAYPAL HOLDINGS INC,"101,218 M",Information Technology,IT Services,Data Processing & Outsourced Services
+QCOM,QUALCOMM INC COM,QUALCOMM INCORPORATED,"159,835 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors
+RTX,RAYTHEON TECH CORP COM,RAYTHEON TECHNOLOGIES CORP,"143,308 M",Industrials,Aerospace & Defense,Aerospace & Defense
+SBUX,STARBUCKS CORP COM,STARBUCKS CORPORATION,"91,362 M",Consumer Discretionary,"Hotels, Restaurants & Leisure",Restaurants
+SO,SOUTHERN CO COM,SOUTHERN CO,"80,359 M",Utilities,Electric Utilities,Electric Utilities
+SPG,SIMON PROPERTY GROUP INC COM USD0.0001,"SIMON PROPERTY GROUP, INC.","36,276 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Retail REITs
+T,AT&T INC COM,AT&T INC.,"149,730 M",Communication Services,Diversified Telecommunication Services,Integrated Telecommunication Services
+TGT,TARGET CORP COM,TARGET CORPORATION,"74,794 M",Consumer Discretionary,Multiline Retail,General Merchandise Stores
+TMO,THERMO FISHER SCIENTIFIC INC COM,THERMO FISHER SCIENTIFIC INC.,"219,546 M",Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services
+TMUS,T-MOBILE US INC COM,T-MOBILE US INC,"170,475 M",Communication Services,Wireless Telecommunication Services,Wireless Telecommunication Services
+TSLA,TESLA INC COM,TESLA INC,"748,041 M",Consumer Discretionary,Automobiles,Automobile Manufacturers
+TXN,TEXAS INSTRUMENTS INC COM,TEXAS INSTRUMENTS INCORPORATED,"161,198 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors
+UNH,UNITEDHEALTH GROUP INC COM,UNITEDHEALTH GROUP INCORPORATED,"460,173 M",Health Care,Health Care Providers & Services,Managed Health Care
+UNP,UNION PACIFIC CORP COM,UNION PACIFIC CORPORATION,"141,331 M",Industrials,Road & Rail,Railroads
+UPS,UNITED PARCEL SERVICE INC COM CL B,"UNITED PARCEL SERVICE, INC.","161,376 M",Industrials,Air Freight & Logistics,Air Freight & Logistics
+USB,US BANCORP COM,US BANCORP,"77,214 M",Financials,Banks,Diversified Banks
+V,VISA INC COM CL A,VISA INCORPORATION,"451,236 M",Information Technology,IT Services,Data Processing & Outsourced Services
+VZ,VERIZON COMMUNICATIONS COM,VERIZON COMMUNICATIONS,"214,682 M",Communication Services,Diversified Telecommunication Services,Integrated Telecommunication Services
+WBA,WALGREENS BOOTS ALLIANCE INC COM,WALGREENS BOOTS ALLIANCE INC,"37,358 M",Consumer Staples,Food & Staples Retailing,Drug Retail
+WFC,WELLS FARGO & COMPANY COM,WELLS FARGO & COMPANY,"169,713 M",Financials,Banks,Diversified Banks
+WMT,WALMART INC COM,WALMART INC,"347,897 M",Consumer Staples,Food & Staples Retailing,Hypermarkets & Super Centers
+XOM,EXXON MOBIL CORPORATION COM,EXXON MOBIL CORP,"419,256 M",Energy,"Oil, Gas & Consumable Fuels",Integrated Oil & Gas

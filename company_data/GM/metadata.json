@@ -1,0 +1,22 @@
+{
+    "sector": "Consumer Discretionary",
+    "cusip": "37045V100",
+    "name": "General Motors Company",
+    "exchange": "NYSE",
+    "full_time_employees": 162000,
+    "country": "US",
+    "symbol": "GM",
+    "OpenFigi": "BBG000NDYB67",
+    "company_type": "normal",
+    "qfs_symbol": "GM:US",
+    "subindustry": "Automobile Manufacturers",
+    "template_type": "normal",
+    "currency": "USD",
+    "CIK": "0001467858",
+    "morningstar_sector": "Consumer Cyclical",
+    "morningstar_industry": "Auto Manufacturers",
+    "ISIN": "US37045V1008",
+    "industry": "Automobiles",
+    "financials_updated": 20250503,
+    "description": "General Motors Company designs, builds, and sells trucks, crossovers, cars, and automobile parts worldwide. The company operates through GM North America, GM International, Cruise, and GM Financial segments. It markets its vehicles primarily under the Buick, Cadillac, Chevrolet, GMC, Baojun, and Wuling brand names. In addition, the company sells trucks, crossovers, cars, and automobile parts through retail dealers, distributors and dealers, as well as to fleet customers, including daily rental car companies, commercial fleet customers, leasing companies, and governments. Further, it offers software-enabled services and subscriptions; and various range of after-sale services through dealer network, such as maintenance, light repairs, collision repairs, vehicle accessories, and extended service warranties. Additionally, the company provides automotive financing; and software-enabled services and subscriptions. General Motors Company was founded in 1908 and is headquartered in Detroit, Michigan."
+}

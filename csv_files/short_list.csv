@@ -1,0 +1,134 @@
+Symbol,Company Name,Market Cap,Sector,Industry,Sub-Industry,%IV_Change,IV_PERC
+NAVI,NAVIENT CORP,"2,072 M",Financials,Consumer Finance,Consumer Finance,-0.75,0.0
+VIX,<empty>,0,,,,0.09,4.0
+VRAY,VIEWRAY INC,503 M,Health Care,Health Care Equipment & Supplies,Health Care Equipment,-0.01,16.0
+BCRX,BIOCRYST PHARMACEUTICALS INC,"1,830 M",Health Care,Biotechnology,Biotechnology,-0.18,31.0
+UVXY,<empty>,168 M,,,,0.22,41.0
+F,FORD MOTOR COMPANY,"51,252 M",Consumer Discretionary,Automobiles,Automobile Manufacturers,0.01,55.0
+AX,AXOS FINANCIAL INC,"2,234 M",Financials,Thrifts & Mortgage Finance,Thrifts & Mortgage Finance,-0.01,56.0
+DBA,<empty>,810 M,,,,-0.01,56.0
+NYCB,NEW YORK COMMUNITY BANCORP INC,"4,306 M",Financials,Thrifts & Mortgage Finance,Thrifts & Mortgage Finance,-0.02,58.0
+EWT,<empty>,"14,519 M",,,,-0.06,59.0
+NKTR,NEKTAR THERAPEUTICS,618 M,Health Care,Pharmaceuticals,Pharmaceuticals,0.06,60.0
+MFA,MFA FINANCIAL INCORPORATED,"1,358 M",Financials,Mortgage Real Estate Investment Trusts (REITs),Mortgage REITs,-0.35,60.0
+ATUS,ALTICE USA INC,"4,547 M",Communication Services,Media,Cable & Satellite,0.08,60.0
+SCO,<empty>,554 M,,,,-0.01,61.0
+FFIV,F5 INC,"9,473 M",Information Technology,Communications Equipment,Communications Equipment,-0.01,62.0
+DKS,"DICK'S SPORTING GOODS, INC.","6,241 M",Consumer Discretionary,Specialty Retail,Specialty Stores,0.01,65.0
+HBI,"HANESBRANDS, INC.","3,791 M",Consumer Discretionary,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",0.09,68.0
+MAC,MACERICH CO,"2,146 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Retail REITs,-0.03,69.0
+ZTS,ZOETIS INC,"76,002 M",Health Care,Pharmaceuticals,Pharmaceuticals,-0.03,69.0
+RMD,RESMED INC.,"30,502 M",Health Care,Health Care Equipment & Supplies,Health Care Equipment,-0.09,71.0
+DOV,DOVER CORPORATION,"18,512 M",Industrials,Machinery,Industrial Machinery,-0.01,71.0
+LOW,LOWE'S COMPANIES INC.,"119,089 M",Consumer Discretionary,Specialty Retail,Home Improvement Retail,0.06,71.0
+NVDA,NVIDIA CORPORATION,"424,350 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,0.04,71.0
+WMT,WALMART INC,"333,598 M",Consumer Staples,Food & Staples Retailing,Hypermarkets & Super Centers,0.01,71.0
+CSCO,CISCO SYSTEMS INCORPORATED,"180,091 M",Information Technology,Communications Equipment,Communications Equipment,0.1,73.0
+WSM,"WILLIAMS-SONOMA, INC.","8,337 M",Consumer Discretionary,Specialty Retail,Homefurnishing Retail,-0.02,73.0
+XLY,<empty>,"15,877 M",,,,-0.11,74.0
+SPGI,S&P GLOBAL INC,"113,105 M",Financials,Capital Markets,Financial Exchanges & Data,-0.03,74.0
+INDA,<empty>,"5,245 M",,,,0.03,74.0
+VWO,<empty>,"52,359 M",,,,0.09,74.0
+UAA,"UNDER ARMOUR, INC.","4,676 M",Consumer Discretionary,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",0.0,75.0
+NDAQ,NASDAQ INC,"24,733 M",Financials,Capital Markets,Financial Exchanges & Data,-0.09,75.0
+HCA,HCA HEALTHCARE INC,"58,128 M",Health Care,Health Care Providers & Services,Health Care Facilities,-0.11,76.0
+QQQ,<empty>,"104,777 M",,,,0.19,77.0
+ANSS,"ANSYS, INC.","21,040 M",Information Technology,Software,Application Software,0.08,77.0
+CRM,SALESFORCE INC,"177,558 M",Information Technology,Software,Application Software,0.06,77.0
+ETSY,ETSY INC,"9,641 M",Consumer Discretionary,Internet & Direct Marketing Retail,Internet & Direct Marketing Retail,0.04,77.0
+TIP,<empty>,"13,044 M",,,,0.05,78.0
+TFC,TRUIST FINANCIAL CORP,"61,178 M",Financials,Banks,Regional Banks,0.15,79.0
+BGS,"B&G FOODS, INC.","1,537 M",Consumer Staples,Food Products,Packaged Foods & Meats,-0.05,79.0
+SPG,"SIMON PROPERTY GROUP, INC.","33,279 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Retail REITs,0.09,80.0
+GT,GOODYEAR TIRE & RUBBER CO,"3,452 M",Consumer Discretionary,Auto Components,Tires & Rubber,0.11,80.0
+CIM,CHIMERA INVESTMENT CORPORATION,"2,276 M",Financials,Mortgage Real Estate Investment Trusts (REITs),Mortgage REITs,-0.02,80.0
+SYK,STRYKER CORPORATION,"81,833 M",Health Care,Health Care Equipment & Supplies,Health Care Equipment,0.06,80.0
+REAL,REALREAL INC,256 M,Consumer Discretionary,Internet & Direct Marketing Retail,Internet & Direct Marketing Retail,0.03,80.0
+NLY,"ANNALY CAPITAL MANAGEMENT, INC.","9,540 M",Financials,Mortgage Real Estate Investment Trusts (REITs),Mortgage REITs,0.12,80.0
+HD,HOME DEPOT INC,"297,268 M",Consumer Discretionary,Specialty Retail,Home Improvement Retail,0.1,81.0
+NET,CLOUDFLARE INC,"15,451 M",Information Technology,IT Services,Internet Services & Infrastructure,0.02,81.0
+JCI,JOHNSON CONTROLS INTERNATIONAL PLC,"36,119 M",Industrials,Building Products,Building Products,0.11,81.0
+HLF,<empty>,"2,362 M",Consumer Staples,Personal Products,Personal Products,-0.06,81.0
+AEO,AMERICAN EAGLE OUTFITTERS INCORPORATED,"2,019 M",Consumer Discretionary,Specialty Retail,Apparel Retail,-0.02,81.0
+NTNX,NUTANIX INC,"3,239 M",Information Technology,Software,Application Software,-0.01,81.0
+AGG,<empty>,"15,797 M",,,,-0.02,81.0
+AFL,AFLAC INCORPORATED,"35,835 M",Financials,Insurance,Life & Health Insurance,0.12,81.0
+UPS,"UNITED PARCEL SERVICE, INC.","151,205 M",Industrials,Air Freight & Logistics,Air Freight & Logistics,0.17,81.0
+DIS,WALT DISNEY CO,"181,055 M",Communication Services,Entertainment,Movies & Entertainment,0.1,82.0
+EXPE,EXPEDIA GROUP INC,"18,091 M",Consumer Discretionary,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",0.09,82.0
+TGT,TARGET CORPORATION,"69,401 M",Consumer Discretionary,Multiline Retail,General Merchandise Stores,0.11,82.0
+DHI,D R HORTON INC,"24,779 M",Consumer Discretionary,Household Durables,Homebuilding,0.09,83.0
+MTUM,<empty>,"12,137 M",,,,0.15,83.0
+ZBRA,ZEBRA TECHNOLOGIES CORPORATION,"16,035 M",Information Technology,"Electronic Equipment, Instruments & Components",Electronic Equipment & Instruments,0.05,83.0
+TPX,TEMPUR SEALY INTERNATIONAL INC,"3,885 M",Consumer Discretionary,Household Durables,Home Furnishings,0.15,83.0
+ICE,INTERCONTINENTAL EXCHANGE INC,"54,587 M",Financials,Capital Markets,Financial Exchanges & Data,-0.05,83.0
+IWM,<empty>,"39,040 M",,,,0.0,83.0
+SCHW,CHARLES SCHWAB CORP,"117,991 M",Financials,Capital Markets,Investment Banking & Brokerage,0.06,83.0
+IWF,<empty>,"58,307 M",,,,0.04,83.0
+GE,GENERAL ELECTRIC COMPANY,"78,400 M",Industrials,Industrial Conglomerates,Industrial Conglomerates,0.12,84.0
+TLT,<empty>,"14,369 M",,,,0.05,84.0
+VTI,<empty>,"78,196 M",,,,0.12,84.0
+BAC,BANK OF AMERICA CORPORATION,"267,247 M",Financials,Banks,Diversified Banks,0.14,85.0
+VNQ,<empty>,"24,565 M",,,,0.09,85.0
+IHI,<empty>,"6,706 M",,,,0.09,85.0
+FXE,<empty>,740 M,,,,0.09,86.0
+XPO,XPO LOGISTICS INC,"5,691 M",Industrials,Road & Rail,Trucking,0.1,86.0
+SIVB,SVB FINANCIAL GROUP,"26,064 M",Financials,Banks,Regional Banks,0.04,86.0
+RNG,RINGCENTRAL INC,"5,150 M",Information Technology,Software,Application Software,0.07,86.0
+SPYG,<empty>,770 M,,,,0.08,87.0
+UYG,<empty>,585 M,,,,0.2,87.0
+TYL,"TYLER TECHNOLOGIES, INC.","13,998 M",Information Technology,Software,Application Software,0.05,87.0
+AAPL,APPLE INC.,"2,219,474 M",Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",0.04,87.0
+INTU,INTUIT INC.,"107,533 M",Information Technology,Software,Application Software,0.07,87.0
+CBRE,CBRE GROUP INCORPORATED,"23,975 M",Real Estate,Real Estate Management & Development,Real Estate Services,0.12,87.0
+IEF,<empty>,"15,099 M",,,,0.18,88.0
+WDAY,WORKDAY INC,"37,917 M",Information Technology,Software,Application Software,0.06,88.0
+PG,PROCTER & GAMBLE CO,"340,580 M",Consumer Staples,Household Products,Household Products,0.05,88.0
+WBA,WALGREENS BOOTS ALLIANCE INC,"35,881 M",Consumer Staples,Food & Staples Retailing,Drug Retail,0.13,88.0
+EMB,<empty>,"14,522 M",,,,0.28,88.0
+ALLY,ALLY FINANCIAL INCORPORATED,"12,130 M",Financials,Consumer Finance,Consumer Finance,0.02,88.0
+RAD,RITE AID CORPORATION,344 M,Consumer Staples,Food & Staples Retailing,Drug Retail,-0.13,88.0
+GOOGL,ALPHABET INC,"1,463,997 M",Communication Services,Interactive Media & Services,Interactive Media & Services,0.06,89.0
+GOOG,ALPHABET INC,"1,467,500 M",Communication Services,Interactive Media & Services,Interactive Media & Services,0.05,89.0
+MMM,3M COMPANY,"78,331 M",Industrials,Industrial Conglomerates,Industrial Conglomerates,0.16,89.0
+FITB,FIFTH THIRD BANCORP,"24,480 M",Financials,Banks,Regional Banks,0.17,90.0
+FAS,<empty>,"1,846 M",,,,0.2,90.0
+FXB,<empty>,47 M,,,,0.09,90.0
+PLD,PROLOGIS INC,"86,789 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Industrial REITs,0.04,90.0
+BIG,"BIG LOTS, INC.",685 M,Consumer Discretionary,Multiline Retail,General Merchandise Stores,0.05,90.0
+BLOK,<empty>,0,,,,-0.06,91.0
+ARKK,<empty>,0,,,,0.02,91.0
+UA,"UNDER ARMOUR, INC.","4,311 M",Consumer Discretionary,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",0.14,92.0
+SWK,STANLEY BLACK & DECKER INCORPORATED,"16,600 M",Industrials,Machinery,Industrial Machinery,0.17,92.0
+SPCE,VIRGIN GALACTIC HOLDINGS INC,"1,632 M",Industrials,Aerospace & Defense,Aerospace & Defense,0.08,92.0
+COST,COSTCO WHOLESALE CORPORATION,"205,229 M",Consumer Staples,Food & Staples Retailing,Hypermarkets & Super Centers,0.08,92.0
+WFC,WELLS FARGO & COMPANY,"151,917 M",Financials,Banks,Diversified Banks,0.17,92.0
+ZEN,ZENDESK INC,"7,962 M",Information Technology,Software,Application Software,-0.15,92.0
+CZR,CAESARS ENTERTAINMENT INC,"9,754 M",Consumer Discretionary,"Hotels, Restaurants & Leisure",Casinos & Gaming,0.14,93.0
+ISRG,"INTUITIVE SURGICAL, INC.","73,683 M",Health Care,Health Care Equipment & Supplies,Health Care Equipment,0.0,93.0
+XHB,<empty>,"3,147 M",,,,0.19,93.0
+BA,BOEING CO,"75,138 M",Industrials,Aerospace & Defense,Aerospace & Defense,0.07,94.0
+TW,TRADEWEB MARKETS INC,"13,873 M",Financials,Capital Markets,Financial Exchanges & Data,0.18,94.0
+TDOC,TELADOC HEALTH INC,"5,116 M",Health Care,Health Care Technology,Health Care Technology,0.1,94.0
+BGCP,"BGC PARTNERS, INCORPORATION","1,196 M",Financials,Capital Markets,Investment Banking & Brokerage,-0.26,94.0
+WTRH,WAITR HOLDINGS INC,25 M,Consumer Discretionary,Internet & Direct Marketing Retail,Internet & Direct Marketing Retail,-0.0746,94.0
+HYG,<empty>,"14,113 M",,,,0.33,95.0
+FXY,<empty>,209 M,,,,0.25,95.0
+CYH,"COMMUNITY HEALTH SYSTEMS, INC.",644 M,Health Care,Health Care Providers & Services,Health Care Facilities,-0.01,96.0
+XLF,<empty>,"24,040 M",,,,0.59,97.0
+AVYA,<empty>,388 M,Information Technology,Software,Application Software,-0.06,97.0
+MUB,<empty>,"27,290 M",,,,0.33,98.0
+LYFT,LYFT INC,"5,488 M",Industrials,Road & Rail,Trucking,0.11,98.0
+FXF,<empty>,168 M,,,,0.17,98.0
+IEI,<empty>,"4,155 M",,,,0.22,98.0
+SRNE,SORRENTO THERAPEUTICS INCORPORATION,587 M,Health Care,Biotechnology,Biotechnology,1.04,98.0
+DBD,DIEBOLD NIXDORF INC,210 M,Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",0.07,99.0
+ESRT,EMPIRE STATE REALTY TRUST INC,"1,235 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Diversified REITs,0.83,99.0
+REV,"REVLON, INC.",112 M,Consumer Staples,Personal Products,Personal Products,2.79,100.0
+CCL,CARNIVAL CORP,"12,988 M",Consumer Discretionary,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",0.22,100.0
+EGHT,"8X8, INC.",771 M,Information Technology,Software,Application Software,0.73,100.0
+BWX,<empty>,930 M,,,,3.52,NaN
+EVFM,EVOFEM BIOSCIENCES INC,12 M,Health Care,Pharmaceuticals,Pharmaceuticals,NaN,NaN
+GOVT,<empty>,"13,082 M",,,,0.39,NaN
+SRLN,<empty>,0,,,,0.1,NaN
+ATHX,"ATHERSYS, INCORPORATION",90 M,Health Care,Biotechnology,Biotechnology,-0.0075,NaN

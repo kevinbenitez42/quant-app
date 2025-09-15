@@ -1,0 +1,505 @@
+﻿Symbol,Company Name,Market Cap,Sector,Industry,Sub-Industry,Custom17,IV%
+A,"AGILENT TECHNOLOGIES, INC.","45,828 M",Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,loading,8.0
+AAL,AMERICAN AIRLINES GROUP INC,"9,372 M",Industrials,Airlines,Airlines,loading,10.0
+AAP,"ADVANCE AUTO PARTS, INC.","8,921 M",Consumer Discretionary,Specialty Retail,Automotive Retail,loading,19.0
+AAPL,APPLE INC.,"2,403,239 M",Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",loading,25.0
+ABBV,ABBVIE INC,"281,878 M",Health Care,Biotechnology,Biotechnology,loading,5.0
+ABC,AMERISOURCEBERGEN CORPORATION,"33,510 M",Health Care,Health Care Providers & Services,Health Care Distributors,loading,2.0
+ABMD,"ABIOMED, INC.","17,035 M",Health Care,Health Care Equipment & Supplies,Health Care Equipment,loading,1.0
+ABT,ABBOTT LABORATORIES,"184,854 M",Health Care,Health Care Equipment & Supplies,Health Care Equipment,loading,4.0
+ACN,ACCENTURE PLC,"185,577 M",Information Technology,IT Services,IT Consulting & Other Services,loading,37.0
+ADBE,ADOBE INC,"156,104 M",Information Technology,Software,Application Software,loading,68.0
+ADI,ANALOG DEVICES INCORPORATED,"87,027 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,loading,12.0
+ADM,ARCHER-DANIELS-MIDLAND CO,"53,165 M",Consumer Staples,Food Products,Agricultural Products,loading,18.0
+ADP,"AUTOMATIC DATA PROCESSING, INC.","108,925 M",Information Technology,IT Services,Data Processing & Outsourced Services,loading,17.0
+ADSK,"AUTODESK, INC.","42,539 M",Information Technology,Software,Application Software,loading,22.0
+AEE,AMEREN CORPORATION,"22,786 M",Utilities,Multi-Utilities,Multi-Utilities,loading,47.0
+AEP,"AMERICAN ELECTRIC POWER COMPANY, INC.","48,884 M",Utilities,Electric Utilities,Electric Utilities,loading,48.0
+AES,AES CORP,"19,023 M",,,,loading,23.0
+AFL,AFLAC INCORPORATED,"44,769 M",Financials,Insurance,Life & Health Insurance,loading,4.0
+AIG,"AMERICAN INTERNATIONAL GROUP, INC.","45,292 M",Financials,Insurance,Multi-line Insurance,loading,1.0
+AIZ,"ASSURANT, INC.","6,712 M",Financials,Insurance,Multi-line Insurance,loading,35.0
+AJG,ARTHUR J. GALLAGHER & CO.,"41,603 M",Financials,Insurance,Insurance Brokers,loading,12.0
+AKAM,"AKAMAI TECHNOLOGIES, INC.","14,454 M",Information Technology,IT Services,Internet Services & Infrastructure,loading,25.0
+ALB,ALBEMARLE CORPORATION,"33,260 M",Materials,Chemicals,Specialty Chemicals,loading,14.0
+ALGN,"ALIGN TECHNOLOGY, INC.","15,332 M",Health Care,Health Care Equipment & Supplies,Health Care Supplies,loading,22.0
+ALK,ALASKA AIR GROUP INCORPORATED,"5,878 M",Industrials,Airlines,Airlines,loading,0.0
+ALL,ALLSTATE CORP,"35,631 M",Financials,Insurance,Property & Casualty Insurance,loading,25.0
+ALLE,ALLEGION PLC,"10,013 M",Industrials,Building Products,Building Products,loading,2.0
+AMAT,"APPLIED MATERIALS, INC.","92,630 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductor Equipment,loading,16.0
+AMCR,<empty>,"17,987 M",Materials,Containers & Packaging,Paper Packaging,loading,6.0
+AMD,"ADVANCED MICRO DEVICES, INC.","123,184 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,loading,20.0
+AME,"AMETEK, INC.","32,629 M",Industrials,Electrical Equipment,Electrical Components & Equipment,loading,5.0
+AMGN,AMGEN INC.,"151,216 M",Health Care,Biotechnology,Biotechnology,loading,30.0
+AMP,"AMERIPRISE FINANCIAL, INC.","35,394 M",Financials,Capital Markets,Asset Management & Custody Banks,loading,6.0
+AMT,AMERICAN TOWER CORPORATION,"101,618 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Specialized REITs,loading,42.0
+AMZN,"AMAZON.COM, INC.","960,282 M",Consumer Discretionary,Internet & Direct Marketing Retail,Internet & Direct Marketing Retail,loading,52.0
+ANET,ARISTA NETWORKS INC,"41,922 M",Information Technology,Communications Equipment,Communications Equipment,loading,15.0
+ANSS,"ANSYS, INC.","21,513 M",Information Technology,Software,Application Software,loading,9.0
+AON,AON PLC,"62,933 M",Financials,Insurance,Insurance Brokers,loading,3.0
+AOS,A O SMITH CORP,"9,400 M",Industrials,Building Products,Building Products,loading,27.0
+APA,APA CORP (US),"15,040 M",Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,loading,2.0
+APD,"AIR PRODUCTS AND CHEMICALS, INC.","68,347 M",Materials,Chemicals,Industrial Gases,loading,13.0
+APH,AMPHENOL CORPORATION,"47,649 M",Information Technology,"Electronic Equipment, Instruments & Components",Electronic Components,loading,1.0
+APTV,APTIV PLC,"28,967 M",Consumer Discretionary,Auto Components,Auto Parts & Equipment,loading,20.0
+ARE,"ALEXANDRIA REAL ESTATE EQUITIES, INC.","24,912 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Office REITs,loading,48.0
+ATO,ATMOS ENERGY CORPORATION,"16,708 M",Utilities,Gas Utilities,Gas Utilities,loading,23.0
+ATVI,ACTIVISION BLIZZARD INCORPORATION,"59,941 M",Communication Services,Entertainment,Interactive Home Entertainment,loading,60.0
+AVB,AVALONBAY COMMUNITIES INC.,"23,576 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Residential REITs,loading,38.0
+AVGO,BROADCOM INC,"216,128 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,loading,35.0
+AVY,AVERY DENNISON CORPORATION,"15,628 M",Materials,Containers & Packaging,Paper Packaging,loading,2.0
+AWK,AMERICAN WATER WORKS CO INCORPORATED,"27,503 M",Utilities,Water Utilities,Water Utilities,loading,32.0
+AXP,AMERICAN EXPRESS COMPANY,"115,022 M",Financials,Consumer Finance,Consumer Finance,loading,7.0
+AZO,"AUTOZONE, INC.","47,768 M",Consumer Discretionary,Specialty Retail,Automotive Retail,loading,47.0
+BA,BOEING CO,"104,208 M",Industrials,Aerospace & Defense,Aerospace & Defense,loading,10.0
+BAC,BANK OF AMERICA CORPORATION,"301,724 M",Financials,Banks,Diversified Banks,loading,2.0
+BALL,BALL CORPORATION,"17,617 M",Materials,Containers & Packaging,Metal & Glass Containers,loading,51.0
+BAX,BAXTER INTERNATIONAL INC.,"28,382 M",Health Care,Health Care Equipment & Supplies,Health Care Equipment,loading,19.0
+BBWI,BATH & BODY WORKS INC,"9,226 M",Consumer Discretionary,Specialty Retail,Specialty Stores,loading,22.0
+BBY,"BEST BUY CO., INC.","18,549 M",Consumer Discretionary,Specialty Retail,Computer & Electronics Retail,loading,21.0
+BDX,BECTON DICKINSON AND CO,"67,688 M",Health Care,Health Care Equipment & Supplies,Health Care Equipment,loading,12.0
+BEN,FRANKLIN RESOURCES INCORPORATED,"13,263 M",Financials,Capital Markets,Asset Management & Custody Banks,loading,24.0
+BF/B,BROWN-FORMAN CORPORATION,"34,770 M",Consumer Staples,Beverages,Distillers & Vintners,loading,49.0
+BIIB,BIOGEN INC,"43,697 M",Health Care,Biotechnology,Biotechnology,loading,29.0
+BIO,BIO RAD LABORATORIES INCORPORATED,"12,047 M",Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,loading,18.0
+BK,BANK OF NEW YORK MELLON CORP.,"36,769 M",Financials,Capital Markets,Asset Management & Custody Banks,loading,1.0
+BKNG,BOOKING HOLDINGS INC,"76,394 M",Consumer Discretionary,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",loading,19.0
+BKR,BAKER HUGHES CO,"28,872 M",Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,loading,13.0
+BLK,"BLACKROCK, INCORPORATION","110,592 M",Financials,Capital Markets,Asset Management & Custody Banks,loading,38.0
+BMY,BRISTOL-MYERS SQUIBB COMPANY,"168,264 M",Health Care,Pharmaceuticals,Pharmaceuticals,loading,1.0
+BR,BROADRIDGE FINANCIAL SOLUTIONS INC,"17,464 M",Information Technology,IT Services,Data Processing & Outsourced Services,loading,14.0
+BRK/B,BERKSHIRE HATHAWAY INC.,"694,717 M",Financials,Diversified Financial Services,Multi-Sector Holdings,loading,12.0
+BRO,"BROWN & BROWN, INC.","16,605 M",Financials,Insurance,Insurance Brokers,loading,4.0
+BSX,BOSTON SCIENTIFIC CORPORATION,"62,864 M",Health Care,Health Care Equipment & Supplies,Health Care Equipment,loading,2.0
+BWA,BORGWARNER INC.,"9,837 M",Consumer Discretionary,Auto Components,Auto Parts & Equipment,loading,15.0
+BXP,"BOSTON PROPERTIES, INC.","10,995 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Office REITs,loading,36.0
+C,CITIGROUP INC.,"93,434 M",Financials,Banks,Diversified Banks,loading,12.0
+CAG,CONAGRA BRANDS INC,"17,670 M",Consumer Staples,Food Products,Packaged Foods & Meats,loading,8.0
+CAH,"CARDINAL HEALTH, INC.","20,562 M",Health Care,Health Care Providers & Services,Health Care Distributors,loading,5.0
+CARR,CARRIER GLOBAL CORP,"36,929 M",Industrials,Building Products,Building Products,loading,15.0
+CAT,CATERPILLAR INC.,"123,295 M",Industrials,Machinery,Construction Machinery & Heavy Trucks,loading,15.0
+CB,CHUBB LTD,"88,883 M",Financials,Insurance,Property & Casualty Insurance,loading,7.0
+CBOE,CBOE GLOBAL MARKETS INC,"13,243 M",,,,loading,2.0
+CBRE,CBRE GROUP INCORPORATED,"24,259 M",Real Estate,Real Estate Management & Development,Real Estate Services,loading,23.0
+CCI,CROWN CASTLE INC,"60,679 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Specialized REITs,loading,46.0
+CCL,CARNIVAL CORP,"12,637 M",Consumer Discretionary,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",loading,37.0
+CDAY,CERIDIAN HCM HOLDING INC,"10,272 M",Information Technology,Software,Application Software,loading,16.0
+CDNS,"CADENCE DESIGN SYSTEMS, INC.","45,951 M",Information Technology,Software,Application Software,loading,3.0
+CDW,CDW CORP,"25,621 M",Information Technology,"Electronic Equipment, Instruments & Components",Technology Distributors,loading,0.0
+CE,CELANESE CORPORATION,"11,300 M",Materials,Chemicals,Specialty Chemicals,loading,60.0
+CEG,CONSTELLATION ENERGY CORP,"31,596 M",Utilities,Electric Utilities,Electric Utilities,loading,NaN
+CF,"CF INDUSTRIES HOLDINGS, INC.","20,857 M",Materials,Chemicals,Fertilizers & Agricultural Chemicals,loading,23.0
+CFG,CITIZENS FINANCIAL GROUP INC,"20,468 M",Financials,Banks,Regional Banks,loading,2.0
+CHD,"CHURCH & DWIGHT CO., INC.","19,161 M",Consumer Staples,Household Products,Household Products,loading,35.0
+CHRW,CH ROBINSON WORLDWIDE INC,"11,543 M",Industrials,Air Freight & Logistics,Air Freight & Logistics,loading,7.0
+CHTR,CHARTER COMMUNICATIONS INC,"60,748 M",Communication Services,Media,Cable & Satellite,loading,80.0
+CI,CIGNA CORP,"97,788 M",Health Care,Health Care Providers & Services,Health Care Services,loading,5.0
+CINF,CINCINNATI FINANCIAL CORPORATION,"17,102 M",Financials,Insurance,Property & Casualty Insurance,loading,13.0
+CL,COLGATE-PALMOLIVE CO.,"64,253 M",Consumer Staples,Household Products,Household Products,loading,8.0
+CLX,CLOROX CO,"18,398 M",Consumer Staples,Household Products,Household Products,loading,11.0
+CMA,COMERICA INCORPORATED,"9,396 M",Financials,Banks,Regional Banks,loading,11.0
+CMCSA,COMCAST CORPORATION,"153,611 M",Communication Services,Media,Cable & Satellite,loading,29.0
+CME,CME GROUP INCORPORATION,"63,312 M",Financials,Capital Markets,Financial Exchanges & Data,loading,14.0
+CMG,"CHIPOTLE MEXICAN GRILL, INC.","41,826 M",Consumer Discretionary,"Hotels, Restaurants & Leisure",Restaurants,loading,9.0
+CMI,CUMMINS INC.,"35,377 M",Industrials,Machinery,Construction Machinery & Heavy Trucks,loading,2.0
+CMS,CMS ENERGY CORPORATION,"17,656 M",Utilities,Multi-Utilities,Multi-Utilities,loading,17.0
+CNC,CENTENE CORPORATION,"47,356 M",Health Care,Health Care Providers & Services,Managed Health Care,loading,16.0
+CNP,"CENTERPOINT ENERGY, INC.","19,396 M",Utilities,Multi-Utilities,Multi-Utilities,loading,18.0
+COF,CAPITAL ONE FINANCIAL CORPORATION,"38,792 M",Financials,Consumer Finance,Consumer Finance,loading,29.0
+COO,COOPER COMPANIES INC,"15,450 M",Health Care,Health Care Equipment & Supplies,Health Care Supplies,loading,45.0
+COP,CONOCOPHILLIPS,"157,927 M",Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,loading,27.0
+COST,COSTCO WHOLESALE CORPORATION,"236,567 M",Consumer Staples,Food & Staples Retailing,Hypermarkets & Super Centers,loading,36.0
+CPB,CAMPBELL SOUP COMPANY,"15,749 M",Consumer Staples,Food Products,Packaged Foods & Meats,loading,78.0
+CPRT,"COPART, INC.","31,374 M",Industrials,Commercial Services & Supplies,Diversified Support Services,loading,12.0
+CPT,CAMDEN PROPERTY TRUST,"12,504 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Residential REITs,loading,32.0
+CRL,CHARLES RIVER LABORATORIES INTERNATIONAL INC,"12,266 M",Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,loading,26.0
+CRM,SALESFORCE INC,"152,240 M",Information Technology,Software,Application Software,loading,78.0
+CSCO,CISCO SYSTEMS INCORPORATED,"199,427 M",Information Technology,Communications Equipment,Communications Equipment,loading,2.0
+CSX,CSX CORPORATION,"67,424 M",Industrials,Road & Rail,Railroads,loading,7.0
+CTAS,CINTAS CORPORATION,"46,244 M",Industrials,Commercial Services & Supplies,Diversified Support Services,loading,23.0
+CTLT,CATALENT INC,"7,591 M",Health Care,Pharmaceuticals,Pharmaceuticals,loading,73.0
+CTRA,COTERRA ENERGY INC,"21,714 M",Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,loading,8.0
+CTSH,COGNIZANT TECHNOLOGY SOLUTIONS CORPORATION,"30,851 M",Information Technology,IT Services,IT Consulting & Other Services,loading,12.0
+CTVA,CORTEVA INC,"47,014 M",Materials,Chemicals,Fertilizers & Agricultural Chemicals,loading,10.0
+CTXS,"CITRIX SYSTEMS, INC.",<empty>,Information Technology,Software,Application Software,loading,0.0
+CVS,CVS HEALTH CORP,"131,476 M",Health Care,Health Care Providers & Services,Health Care Services,loading,3.0
+CVX,CHEVRON CORPORATION,"356,254 M",Energy,"Oil, Gas & Consumable Fuels",Integrated Oil & Gas,loading,16.0
+CZR,CAESARS ENTERTAINMENT INC,"10,546 M",Consumer Discretionary,"Hotels, Restaurants & Leisure",Casinos & Gaming,loading,28.0
+D,DOMINION ENERGY INC,"50,855 M",Utilities,Multi-Utilities,Multi-Utilities,loading,77.0
+DAL,DELTA AIR LINES INC,"22,115 M",Industrials,Airlines,Airlines,loading,5.0
+DD,DUPONT DE NEMOURS INC,"35,674 M",Materials,Chemicals,Specialty Chemicals,loading,10.0
+DE,DEERE & COMPANY,"132,052 M",Industrials,Machinery,Agricultural & Farm Machinery,loading,1.0
+DFS,DISCOVER FINANCIAL SERVICES,"29,689 M",Financials,Consumer Finance,Consumer Finance,loading,3.0
+DG,DOLLAR GENERAL CORPORATION,"57,821 M",Consumer Discretionary,Multiline Retail,General Merchandise Stores,loading,69.0
+DGX,QUEST DIAGNOSTICS INCORPORATED,"16,908 M",Health Care,Health Care Providers & Services,Health Care Services,loading,17.0
+DHI,D R HORTON INC,"29,097 M",Consumer Discretionary,Household Durables,Homebuilding,loading,14.0
+DHR,DANAHER CORPORATION,"191,709 M",Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,loading,27.0
+DIS,WALT DISNEY CO,"176,105 M",Communication Services,Entertainment,Movies & Entertainment,loading,30.0
+DISH,DISH NETWORK CORPORATION,"8,433 M",Communication Services,Media,Cable & Satellite,loading,47.0
+DLR,"DIGITAL REALTY TRUST, INC.","31,912 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Specialized REITs,loading,63.0
+DLTR,"DOLLAR TREE, INCORPORATION","33,622 M",Consumer Discretionary,Multiline Retail,General Merchandise Stores,loading,15.0
+DOV,DOVER CORPORATION,"20,037 M",Industrials,Machinery,Industrial Machinery,loading,15.0
+DOW,DOW INC,"36,279 M",Materials,Chemicals,Commodity Chemicals,loading,30.0
+DPZ,"DOMINO' S PIZZA, INC.","13,867 M",Consumer Discretionary,"Hotels, Restaurants & Leisure",Restaurants,loading,23.0
+DRE,DUKE REALTY CORPORATION,"18,557 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Industrial REITs,loading,85.0
+DRI,"DARDEN RESTAURANTS, INC.","18,154 M",Consumer Discretionary,"Hotels, Restaurants & Leisure",Restaurants,loading,29.0
+DTE,DTE ENERGY COMPANY,"22,182 M",Utilities,Multi-Utilities,Multi-Utilities,loading,13.0
+DUK,DUKE ENERGY CORPORATION,"75,882 M",Utilities,Electric Utilities,Electric Utilities,loading,50.0
+DVA,DAVITA INC,"6,513 M",Health Care,Health Care Providers & Services,Health Care Services,loading,30.0
+DVN,DEVON ENERGY CORPORATION,"44,321 M",Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,loading,0.0
+DXC,DXC TECHNOLOGY CO,"6,812 M",Information Technology,IT Services,IT Consulting & Other Services,loading,42.0
+DXCM,"DEXCOM, INC.","43,616 M",Health Care,Health Care Equipment & Supplies,Health Care Equipment,loading,8.0
+EA,"ELECTRONIC ARTS, INC.","36,155 M",Communication Services,Entertainment,Interactive Home Entertainment,loading,2.0
+EBAY,EBAY INCORPORATED,"24,544 M",Consumer Discretionary,Internet & Direct Marketing Retail,Internet & Direct Marketing Retail,loading,13.0
+ECL,ECOLAB INC.,"42,741 M",Materials,Chemicals,Specialty Chemicals,loading,29.0
+ED,"CONSOLIDATED EDISON, INC.","34,305 M",Utilities,Multi-Utilities,Multi-Utilities,loading,34.0
+EFX,"EQUIFAX, INCORPORATED","24,235 M",Industrials,Professional Services,Research & Consulting Services,loading,18.0
+EIX,EDISON INTERNATIONAL,"24,337 M",Utilities,Electric Utilities,Electric Utilities,loading,72.0
+EL,ESTEE LAUDER COMPANIES INC,"79,466 M",Consumer Staples,Personal Products,Personal Products,loading,29.0
+ELV,ELEVANCE HEALTH INC,"121,124 M",Health Care,Health Care Providers & Services,Managed Health Care,loading,10.0
+EMBC,EMBECTA CORP,"1,907 M",Health Care,Health Care Equipment & Supplies,Health Care Supplies,loading,NaN
+EMN,EASTMAN CHEMICAL COMPANY,"10,425 M",Materials,Chemicals,Specialty Chemicals,loading,42.0
+EMR,EMERSON ELECTRIC CO,"56,709 M",Industrials,Electrical Equipment,Electrical Components & Equipment,loading,13.0
+ENPH,ENPHASE ENERGY INC,"42,922 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductor Equipment,loading,7.0
+EOG,EOG RESOURCES INC,"83,791 M",Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,loading,12.0
+EPAM,EPAM SYSTEMS INC,"20,064 M",Information Technology,IT Services,IT Consulting & Other Services,loading,15.0
+EQIX,"EQUINIX, INC.","62,164 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Specialized REITs,loading,17.0
+EQR,EQUITY RESIDENTIAL,"23,624 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Residential REITs,loading,38.0
+ES,EVERSOURCE ENERGY,"28,624 M",Utilities,Electric Utilities,Electric Utilities,loading,71.0
+ESS,ESSEX PROPERTY TRUST INCORPORATED,"13,719 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Residential REITs,loading,42.0
+ETN,EATON CORP PLC,"65,764 M",Industrials,Electrical Equipment,Electrical Components & Equipment,loading,9.0
+ETR,ENTERGY CORPORATION,"23,831 M",Utilities,Electric Utilities,Electric Utilities,loading,38.0
+ETSY,ETSY INC,"15,081 M",Consumer Discretionary,Internet & Direct Marketing Retail,Internet & Direct Marketing Retail,loading,17.0
+EVRG,EVERGY INC,"13,389 M",Utilities,Electric Utilities,Electric Utilities,loading,42.0
+EW,EDWARDS LIFESCIENCES CORPORATION,"46,932 M",Health Care,Health Care Equipment & Supplies,Health Care Equipment,loading,59.0
+EXC,EXELON CORPORATION,"39,620 M",Utilities,Electric Utilities,Electric Utilities,loading,54.0
+EXPD,"EXPEDITORS INTERNATIONAL OF  WASHINGTON, INC.","18,140 M",Industrials,Air Freight & Logistics,Air Freight & Logistics,loading,33.0
+EXPE,EXPEDIA GROUP INC,"15,746 M",Consumer Discretionary,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",loading,17.0
+EXR,EXTRA SPACE STORAGE INCORPORATION,"20,957 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Specialized REITs,loading,47.0
+F,FORD MOTOR COMPANY,"56,408 M",Consumer Discretionary,Automobiles,Automobile Manufacturers,loading,4.0
+FANG,DIAMONDBACK ENERGY INC,"26,398 M",Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,loading,3.0
+FAST,FASTENAL COMPANY,"30,018 M",Industrials,Trading Companies & Distributors,Trading Companies & Distributors,loading,13.0
+FBHS,FORTUNE BRANDS HOME & SECURITY INC,"8,491 M",Industrials,Building Products,Building Products,loading,40.0
+FCX,FREEPORT-MCMORAN INC,"54,372 M",Materials,Metals & Mining,Copper,loading,21.0
+FDS,FACTSET RESEARCH SYSTEMS INC.,"17,287 M",Financials,Capital Markets,Financial Exchanges & Data,loading,2.0
+FDX,FEDEX CORPORATION,"45,892 M",Industrials,Air Freight & Logistics,Air Freight & Logistics,loading,31.0
+FE,FIRSTENERGY CORPORATION,"22,590 M",Utilities,Electric Utilities,Electric Utilities,loading,60.0
+FFIV,F5 INC,"9,401 M",Information Technology,Communications Equipment,Communications Equipment,loading,0.0
+FIS,"FIDELITY NATIONAL INFORMATION SERVICES, INC.","39,122 M",Information Technology,IT Services,Data Processing & Outsourced Services,loading,23.0
+FISV,"FISERV, INC.","64,824 M",Information Technology,IT Services,Data Processing & Outsourced Services,loading,9.0
+FITB,FIFTH THIRD BANCORP,"24,937 M",Financials,Banks,Regional Banks,loading,8.0
+FLT,"FLEETCOR TECHNOLOGIES, INC.","14,000 M",Information Technology,IT Services,Data Processing & Outsourced Services,loading,4.0
+FMC,FMC CORPORATION,"16,155 M",Materials,Chemicals,Fertilizers & Agricultural Chemicals,loading,4.0
+FOX,FOX CORP,"15,874 M",Communication Services,Media,Broadcasting,loading,0.0
+FOXA,FOX CORP,"16,867 M",Communication Services,Media,Broadcasting,loading,6.0
+FRC,FIRST REPUBLIC BANK,"22,705 M",Financials,Banks,Regional Banks,loading,32.0
+FRT,FEDERAL REALTY INVESTMENT TRUST,"8,895 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Retail REITs,loading,19.0
+FTNT,FORTINET INCORPORATION,"41,679 M",Information Technology,Software,Systems Software,loading,6.0
+FTV,FORTIVE CORP,"24,020 M",Industrials,Machinery,Industrial Machinery,loading,17.0
+GD,GENERAL DYNAMICS CORPORATION,"69,266 M",Industrials,Aerospace & Defense,Aerospace & Defense,loading,10.0
+GE,GENERAL ELECTRIC COMPANY,"96,013 M",Industrials,Industrial Conglomerates,Industrial Conglomerates,loading,3.0
+GILD,"GILEAD SCIENCES, INC.","107,138 M",Health Care,Biotechnology,Biotechnology,loading,10.0
+GIS,"GENERAL MILLS, INC.","49,133 M",Consumer Staples,Food Products,Packaged Foods & Meats,loading,28.0
+GL,GLOBE LIFE INC,"11,358 M",Financials,Insurance,Life & Health Insurance,loading,10.0
+GLW,CORNING INC,"28,690 M",Information Technology,"Electronic Equipment, Instruments & Components",Electronic Components,loading,7.0
+GM,GENERAL MOTORS COMPANY,"56,984 M",Consumer Discretionary,Automobiles,Automobile Manufacturers,loading,8.0
+GNRC,GENERAC HOLDINGS INCORPORATION,"6,780 M",Industrials,Electrical Equipment,Electrical Components & Equipment,loading,48.0
+GOOG,ALPHABET INC,"1,279,027 M",Communication Services,Interactive Media & Services,Interactive Media & Services,loading,32.0
+GOOGL,ALPHABET INC,"1,274,368 M",Communication Services,Interactive Media & Services,Interactive Media & Services,loading,33.0
+GPC,GENUINE PARTS COMPANY,"25,962 M",Consumer Discretionary,Distributors,Distributors,loading,26.0
+GPN,GLOBAL PAYMENTS INC.,"27,086 M",Information Technology,IT Services,Data Processing & Outsourced Services,loading,18.0
+GRMN,GARMIN LTD.,"17,374 M",Consumer Discretionary,Household Durables,Consumer Electronics,loading,0.0
+GS,GOLDMAN SACHS GROUP INC,"130,798 M",Financials,Capital Markets,Investment Banking & Brokerage,loading,3.0
+GWW,WW GRAINGER INC,"30,536 M",Industrials,Trading Companies & Distributors,Trading Companies & Distributors,loading,13.0
+HAL,HALLIBURTON COMPANY,"33,198 M",Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,loading,33.0
+HAS,"HASBRO, INC.","8,585 M",Consumer Discretionary,Leisure Products,Leisure Products,loading,54.0
+HBAN,HUNTINGTON BANCSHARES INCORPORATED,"21,886 M",Financials,Banks,Regional Banks,loading,1.0
+HCA,HCA HEALTHCARE INC,"67,083 M",Health Care,Health Care Providers & Services,Health Care Facilities,loading,12.0
+HD,HOME DEPOT INC,"329,138 M",Consumer Discretionary,Specialty Retail,Home Improvement Retail,loading,19.0
+HES,HESS CORPORATION,"44,674 M",Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,loading,14.0
+HIG,HARTFORD FINANCIAL SERVICES GROUP INC,"24,026 M",Financials,Insurance,Multi-line Insurance,loading,0.0
+HII,HUNTINGTON INGALLS INDUSTRIES INC,"9,081 M",Industrials,Aerospace & Defense,Aerospace & Defense,loading,23.0
+HLT,HILTON WORLDWIDE HOLDINGS INC,"37,469 M",Consumer Discretionary,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",loading,4.0
+HOLX,"HOLOGIC, INC.","18,285 M",Health Care,Health Care Equipment & Supplies,Health Care Equipment,loading,3.0
+HON,HONEYWELL INTERNATIONAL INCORPORATED,"147,178 M",Industrials,Industrial Conglomerates,Industrial Conglomerates,loading,5.0
+HPE,HEWLETT PACKARD ENTERPRISE CO,"20,330 M",Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",loading,29.0
+HPQ,HP INC,"30,088 M",Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",loading,15.0
+HRL,HORMEL FOODS CORPORATION,"26,846 M",Consumer Staples,Food Products,Packaged Foods & Meats,loading,35.0
+HSIC,"HENRY SCHEIN, INC.","10,898 M",Health Care,Health Care Providers & Services,Health Care Distributors,loading,4.0
+HST,"HOST HOTELS & RESORTS, INC.","13,064 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Hotel & Resort REITs,loading,21.0
+HSY,HERSHEY CO,"47,614 M",Consumer Staples,Food Products,Packaged Foods & Meats,loading,15.0
+HUM,HUMANA INC,"68,149 M",Health Care,Health Care Providers & Services,Managed Health Care,loading,8.0
+HWM,HOWMET AEROSPACE INC,"15,729 M",Industrials,Aerospace & Defense,Aerospace & Defense,loading,8.0
+IBM,INTERNATIONAL BUSINESS MACHINES CORPORATION,"134,489 M",Information Technology,IT Services,IT Consulting & Other Services,loading,5.0
+ICE,INTERCONTINENTAL EXCHANGE INC,"59,732 M",Financials,Capital Markets,Financial Exchanges & Data,loading,21.0
+IDXX,IDEXX LABORATORIES INCORPORATED,"34,496 M",Health Care,Health Care Equipment & Supplies,Health Care Equipment,loading,18.0
+IEX,IDEX CORPORATION,"17,754 M",Industrials,Machinery,Industrial Machinery,loading,12.0
+IFF,INTERNATIONAL FLAVORS & FRAGRANCES INCORPORATED,"25,728 M",Materials,Chemicals,Specialty Chemicals,loading,36.0
+ILMN,"ILLUMINA, INC.","34,933 M",Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,loading,31.0
+INCY,INCYTE CORP.,"17,300 M",Health Care,Biotechnology,Biotechnology,loading,2.0
+INTC,INTEL CORPORATION,"122,448 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,loading,29.0
+INTU,INTUIT INC.,"111,578 M",Information Technology,Software,Application Software,loading,64.0
+IP,INTERNATIONAL PAPER COMPANY,"13,092 M",Materials,Containers & Packaging,Paper Packaging,loading,15.0
+IPG,INTERPUBLIC GROUP OF COMPANIES INC,"13,295 M",Communication Services,Media,Advertising,loading,5.0
+IPGP,IPG PHOTONICS CORP,"4,501 M",Information Technology,"Electronic Equipment, Instruments & Components",Electronic Manufacturing Services,loading,4.0
+IQV,IQVIA HOLDINGS INC,"40,439 M",Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,loading,15.0
+IR,INGERSOLL RAND INC,"21,720 M",Industrials,Machinery,Industrial Machinery,loading,35.0
+IRM,IRON MOUNTAIN INCORPORATED,"15,527 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Specialized REITs,loading,33.0
+ISRG,"INTUITIVE SURGICAL, INC.","93,453 M",Health Care,Health Care Equipment & Supplies,Health Care Equipment,loading,11.0
+IT,GARTNER INCORPORATED,"27,127 M",Information Technology,IT Services,IT Consulting & Other Services,loading,7.0
+ITW,ILLINOIS TOOL WORKS INCORPORATED,"70,247 M",Industrials,Machinery,Industrial Machinery,loading,6.0
+IVZ,INVESCO LIMITED,"8,782 M",Financials,Capital Markets,Asset Management & Custody Banks,loading,36.0
+J,JACOBS SOLUTIONS INC,"15,501 M",Industrials,Professional Services,Research & Consulting Services,loading,19.0
+JBHT,J B HUNT TRANSPORT SERVICES INC,"18,674 M",Industrials,Road & Rail,Trucking,loading,11.0
+JCI,JOHNSON CONTROLS INTERNATIONAL PLC,"45,975 M",Industrials,Building Products,Building Products,loading,20.0
+JKHY,"JACK HENRY & ASSOCIATES, INC.","13,865 M",Information Technology,IT Services,Data Processing & Outsourced Services,loading,4.0
+JNJ,JOHNSON & JOHNSON,"462,790 M",Health Care,Pharmaceuticals,Pharmaceuticals,loading,0.0
+JNPR,JUNIPER NETWORKS INC,"10,298 M",Information Technology,Communications Equipment,Communications Equipment,loading,32.0
+JPM,JPMORGAN CHASE & CO.,"400,323 M",Financials,Banks,Diversified Banks,loading,4.0
+K,KELLOGG COMPANY,"24,746 M",Consumer Staples,Food Products,Packaged Foods & Meats,loading,9.0
+KEY,KEYCORP,"17,652 M",Financials,Banks,Regional Banks,loading,19.0
+KEYS,KEYSIGHT TECHNOLOGIES INC,"31,423 M",Information Technology,"Electronic Equipment, Instruments & Components",Electronic Equipment & Instruments,loading,8.0
+KHC,KRAFT HEINZ CO,"47,650 M",Consumer Staples,Food Products,Packaged Foods & Meats,loading,1.0
+KIM,KIMCO REALTY CORPORATION,"13,996 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Retail REITs,loading,21.0
+KLAC,KLA CORP,"54,651 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductor Equipment,loading,8.0
+KMB,KIMBERLY-CLARK CORPORATION,"45,224 M",Consumer Staples,Household Products,Household Products,loading,8.0
+KMI,KINDER MORGAN INCORPORATED,"41,920 M",Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,loading,8.0
+KMX,"CARMAX, INC.","10,522 M",Consumer Discretionary,Specialty Retail,Automotive Retail,loading,46.0
+KO,COCA-COLA CO,"270,844 M",Consumer Staples,Beverages,Soft Drinks,loading,0.0
+KR,KROGER CO,"34,244 M",Consumer Staples,Food & Staples Retailing,Food Retail,loading,54.0
+L,LOEWS CORPORATION,"13,607 M",Financials,Insurance,Property & Casualty Insurance,loading,24.0
+LDOS,LEIDOS HOLDINGS INC,"14,698 M",Industrials,Professional Services,Research & Consulting Services,loading,15.0
+LEN,LENNAR CORPORATION,"25,174 M",Consumer Discretionary,Household Durables,Homebuilding,loading,25.0
+LH,LABORATORY CORPORATION OF AMERICA HOLDINGS,"21,112 M",Health Care,Health Care Providers & Services,Health Care Services,loading,9.0
+LHX,L3HARRIS TECHNOLOGIES INC,"43,113 M",Industrials,Aerospace & Defense,Aerospace & Defense,loading,41.0
+LIN,LINDE PLC,"169,503 M",Materials,Chemicals,Industrial Gases,loading,14.0
+LKQ,LKQ CORPORATION,"14,652 M",Consumer Discretionary,Distributors,Distributors,loading,3.0
+LLY,ELI LILLY AND COMPANY,"343,698 M",Health Care,Pharmaceuticals,Pharmaceuticals,loading,27.0
+LMT,LOCKHEED MARTIN CORPORATION,"126,076 M",Industrials,Aerospace & Defense,Aerospace & Defense,loading,11.0
+LNC,LINCOLN NATIONAL CORPORATION,"6,555 M",Financials,Insurance,Life & Health Insurance,loading,35.0
+LNT,ALLIANT ENERGY CORPORATION,"14,050 M",Utilities,Electric Utilities,Electric Utilities,loading,36.0
+LOW,LOWE'S COMPANIES INC.,"128,933 M",Consumer Discretionary,Specialty Retail,Home Improvement Retail,loading,33.0
+LRCX,LAM RESEARCH CORPORATION,"62,925 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductor Equipment,loading,29.0
+LUMN,LUMEN TECHNOLOGIES INC,"6,083 M",Communication Services,Diversified Telecommunication Services,Alternative Carriers,loading,73.0
+LUV,SOUTHWEST AIRLINES CO.,"22,937 M",Industrials,Airlines,Airlines,loading,0.0
+LVS,LAS VEGAS SANDS CORP.,"32,905 M",Consumer Discretionary,"Hotels, Restaurants & Leisure",Casinos & Gaming,loading,24.0
+LW,LAMB WESTON HOLDINGS INC,"12,427 M",Consumer Staples,Food Products,Packaged Foods & Meats,loading,2.0
+LYB,<empty>,"28,684 M",Materials,Chemicals,Commodity Chemicals,loading,19.0
+LYV,LIVE NATION ENTERTAINMENT INCORPORATION,"15,834 M",Communication Services,Entertainment,Movies & Entertainment,loading,19.0
+MA,"MASTERCARD, INC.","335,203 M",Information Technology,IT Services,Data Processing & Outsourced Services,loading,3.0
+MAA,MID-AMERICA APARTMENT COMMUNITIES,"18,629 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Residential REITs,loading,13.0
+MAR,"MARRIOTT INTERNATIONAL, INC.","51,115 M",Consumer Discretionary,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",loading,5.0
+MAS,MASCO CORPORATION,"11,430 M",Industrials,Building Products,Building Products,loading,31.0
+MCD,MCDONALD'S CORP,"200,149 M",Consumer Discretionary,"Hotels, Restaurants & Leisure",Restaurants,loading,5.0
+MCHP,MICROCHIP TECHNOLOGY INCORPORATION,"42,142 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,loading,12.0
+MCK,MCKESSON CORPORATION,"53,988 M",Health Care,Health Care Providers & Services,Health Care Distributors,loading,12.0
+MCO,MOODY'S CORPORATION,"54,586 M",Financials,Capital Markets,Financial Exchanges & Data,loading,33.0
+MDLZ,MONDELEZ INTERNATIONAL INCORPORATED,"91,046 M",Consumer Staples,Food Products,Packaged Foods & Meats,loading,8.0
+MDT,MEDTRONIC PLC,"105,030 M",Health Care,Health Care Equipment & Supplies,Health Care Equipment,loading,25.0
+MET,"METLIFE, INC.","60,195 M",Financials,Insurance,Life & Health Insurance,loading,0.0
+META,META PLATFORMS INC,"297,610 M",Communication Services,Interactive Media & Services,Interactive Media & Services,loading,37.0
+MGM,MGM RESORTS INTERNATIONAL,"13,779 M",Consumer Discretionary,"Hotels, Restaurants & Leisure",Casinos & Gaming,loading,11.0
+MHK,"MOHAWK INDUSTRIES, INC.","6,487 M",Consumer Discretionary,Household Durables,Home Furnishings,loading,25.0
+MKC,"MCCORMICK & COMPANY, INCORPORATED","23,095 M",Consumer Staples,Food Products,Packaged Foods & Meats,loading,36.0
+MKTX,MARKETAXESS HOLDINGS INC.,"9,666 M",Financials,Capital Markets,Financial Exchanges & Data,loading,3.0
+MLM,"MARTIN MARIETTA MATERIALS, INC.","22,683 M",Materials,Construction Materials,Construction Materials,loading,12.0
+MMC,"MARSH & MCLENNAN COMPANIES, INC.","84,565 M",Financials,Insurance,Insurance Brokers,loading,7.0
+MMM,3M COMPANY,"70,751 M",Industrials,Industrial Conglomerates,Industrial Conglomerates,loading,16.0
+MNST,MONSTER BEVERAGE CORP,"54,225 M",Consumer Staples,Beverages,Soft Drinks,loading,2.0
+MO,"ALTRIA GROUP, INC.","80,684 M",Consumer Staples,Tobacco,Tobacco,loading,7.0
+MOH,"MOLINA HEALTHCARE, INC.","18,722 M",Health Care,Health Care Providers & Services,Managed Health Care,loading,4.0
+MOS,MOSAIC CO,"17,228 M",Materials,Chemicals,Fertilizers & Agricultural Chemicals,loading,19.0
+MPC,MARATHON PETROLEUM CORP,"58,864 M",Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing,loading,21.0
+MPWR,"MONOLITHIC POWER SYSTEMS, INC.","17,636 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,loading,18.0
+MRK,"MERCK & CO. , INC.","270,831 M",Health Care,Pharmaceuticals,Pharmaceuticals,loading,0.0
+MRNA,MODERNA INC,"67,927 M",Health Care,Biotechnology,Biotechnology,loading,14.0
+MRO,MARATHON OIL CORPORATION,"19,465 M",Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,loading,1.0
+MS,MORGAN STANLEY,"151,992 M",Financials,Capital Markets,Investment Banking & Brokerage,loading,7.0
+MSCI,MSCI INC.,"40,679 M",Financials,Capital Markets,Financial Exchanges & Data,loading,4.0
+MSFT,MICROSOFT CORPORATION,"1,845,578 M",Information Technology,Software,Systems Software,loading,19.0
+MSI,MOTOROLA SOLUTIONS INCORPORATION,"44,476 M",Information Technology,Communications Equipment,Communications Equipment,loading,2.0
+MTB,M&T BANK CORPORATION,"29,667 M",Financials,Banks,Regional Banks,loading,1.0
+MTCH,MATCH GROUP INC,"13,482 M",Communication Services,Interactive Media & Services,Interactive Media & Services,loading,36.0
+MTD,METTLER-TOLEDO INTERNATIONAL INC.,"32,133 M",Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,loading,20.0
+MU,"MICRON TECHNOLOGY, INC.","64,067 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,loading,17.0
+NCLH,NORWEGIAN CRUISE LINE HOLDINGS LTD,"6,877 M",Consumer Discretionary,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",loading,17.0
+NDAQ,NASDAQ INC,"32,980 M",Financials,Capital Markets,Financial Exchanges & Data,loading,18.0
+NDSN,NORDSON CORPORATION,"13,410 M",Industrials,Machinery,Industrial Machinery,loading,17.0
+NEE,NEXTERA ENERGY INC,"168,750 M",Utilities,Electric Utilities,Electric Utilities,loading,27.0
+NEM,NEWMONT CORPORATION,"36,710 M",Materials,Metals & Mining,Gold,loading,30.0
+NFLX,NETFLIX INC,"129,723 M",Communication Services,Entertainment,Movies & Entertainment,loading,44.0
+NI,NISOURCE INC.,"11,039 M",Utilities,Multi-Utilities,Multi-Utilities,loading,67.0
+NKE,NIKE INC.,"166,864 M",Consumer Discretionary,"Textiles, Apparel & Luxury Goods",Footwear,loading,44.0
+NLOK,<empty>,"14,416 M",Information Technology,Software,Systems Software,loading,75.0
+NLSN,NIELSEN HOLDINGS PLC,"10,068 M",Industrials,Professional Services,Research & Consulting Services,loading,NaN
+NOC,NORTHROP GRUMMAN CORPORATION,"80,394 M",Industrials,Aerospace & Defense,Aerospace & Defense,loading,23.0
+NOW,SERVICENOW INC,"82,693 M",Information Technology,Software,Systems Software,loading,29.0
+NRG,"NRG ENERGY, INC.","9,778 M",Utilities,Electric Utilities,Electric Utilities,loading,22.0
+NSC,NORFOLK SOUTHERN CORPORATION,"58,136 M",Industrials,Road & Rail,Railroads,loading,25.0
+NTAP,NETAPP INCORPORATION,"16,229 M",Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",loading,57.0
+NTRS,NORTHERN TRUST CORPORATION,"19,556 M",Financials,Capital Markets,Asset Management & Custody Banks,loading,10.0
+NUE,NUCOR CORPORATION,"38,412 M",Materials,Metals & Mining,Steel,loading,8.0
+NVDA,NVIDIA CORPORATION,"406,367 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,loading,10.0
+NVR,NVR INC.,"14,384 M",Consumer Discretionary,Household Durables,Homebuilding,loading,NaN
+NWL,NEWELL BRANDS INC,"5,451 M",Consumer Discretionary,Household Durables,Housewares & Specialties,loading,62.0
+NWS,NEWS CORP,"10,638 M",Communication Services,Media,Publishing,loading,17.0
+NWSA,NEWS CORP,"10,494 M",Communication Services,Media,Publishing,loading,52.0
+NXPI,<empty>,"45,400 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,loading,12.0
+O,REALTY INCOME CORPORATION,"40,464 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Retail REITs,loading,27.0
+ODFL,"OLD DOMINION FREIGHT LINE, INC.","32,816 M",Industrials,Road & Rail,Trucking,loading,28.0
+OGN,ORGANON & CO,"6,311 M",Health Care,Pharmaceuticals,Pharmaceuticals,loading,2.0
+OKE,ONEOK INC,"29,329 M",Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,loading,18.0
+OMC,OMNICOM GROUP INCORPORATED,"15,944 M",Communication Services,Media,Advertising,loading,7.0
+ORCL,ORACLE CORPORATION,"222,595 M",Information Technology,Software,Systems Software,loading,63.0
+ORLY,"O'REILLY AUTOMOTIVE, INC.","53,241 M",Consumer Discretionary,Specialty Retail,Automotive Retail,loading,5.0
+OTIS,OTIS WORLDWIDE CORP,"32,535 M",Industrials,Machinery,Industrial Machinery,loading,8.0
+OXY,OCCIDENTAL PETROLEUM CORPORATION,"64,642 M",Energy,"Oil, Gas & Consumable Fuels",Integrated Oil & Gas,loading,1.0
+PARA,PARAMOUNT GLOBAL,"12,763 M",Communication Services,Media,Broadcasting,loading,55.0
+PAYC,PAYCOM SOFTWARE INC,"19,639 M",Information Technology,Software,Application Software,loading,27.0
+PAYX,"PAYCHEX, INC.","44,387 M",Information Technology,IT Services,Data Processing & Outsourced Services,loading,23.0
+PCAR,PACCAR INC,"36,825 M",Industrials,Machinery,Construction Machinery & Heavy Trucks,loading,1.0
+PEAK,HEALTHPEAK PROPERTIES INC,"13,578 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Health Care REITs,loading,27.0
+PEG,PUBLIC SERVICE ENTERPRISE GROUP INC.,"29,443 M",Utilities,Multi-Utilities,Multi-Utilities,loading,77.0
+PENN,PENN ENTERTAINMENT INC,"5,533 M",Consumer Discretionary,"Hotels, Restaurants & Leisure",Casinos & Gaming,loading,0.0
+PEP,PEPSICO INC.,"254,986 M",Consumer Staples,Beverages,Soft Drinks,loading,7.0
+PFE,PFIZER INC.,"274,210 M",Health Care,Pharmaceuticals,Pharmaceuticals,loading,0.0
+PFG,"PRINCIPAL FINANCIAL GROUP, INCORPORATED","22,457 M",Financials,Insurance,Life & Health Insurance,loading,7.0
+PG,PROCTER & GAMBLE CO,"347,042 M",Consumer Staples,Household Products,Household Products,loading,6.0
+PGR,PROGRESSIVE CORP,"76,688 M",Financials,Insurance,Property & Casualty Insurance,loading,15.0
+PH,PARKER-HANNIFIN CORP,"39,337 M",Industrials,Machinery,Industrial Machinery,loading,10.0
+PHM,"PULTEGROUP, INCORPORATION","10,184 M",Consumer Discretionary,Household Durables,Homebuilding,loading,15.0
+PKG,PACKAGING CORPORATION OF AMERICA,"12,339 M",Materials,Containers & Packaging,Paper Packaging,loading,42.0
+PKI,PERKINELMER INCORPORATED,"17,352 M",Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,loading,2.0
+PLD,PROLOGIS INC,"106,643 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Industrial REITs,loading,51.0
+PM,PHILIP MORRIS INTERNATIONAL INCORPORATION,"152,090 M",Consumer Staples,Tobacco,Tobacco,loading,1.0
+PNC,PNC FINANCIAL SERVICES GROUP INCORPORATED,"67,153 M",Financials,Banks,Regional Banks,loading,4.0
+PNR,PENTAIR PLC,"7,559 M",Industrials,Machinery,Industrial Machinery,loading,25.0
+PNW,PINNACLE WEST CAPITAL CORPORATION,"8,643 M",Utilities,Electric Utilities,Electric Utilities,loading,37.0
+POOL,POOL CORPORATION,"12,980 M",Consumer Discretionary,Distributors,Distributors,loading,18.0
+PPG,"PPG INDUSTRIES, INC.","31,273 M",Materials,Chemicals,Specialty Chemicals,loading,41.0
+PPL,PPL CORP,"21,434 M",Utilities,Electric Utilities,Electric Utilities,loading,42.0
+PRU,"PRUDENTIAL FINANCIAL, INCORPORATED","39,398 M",Financials,Insurance,Life & Health Insurance,loading,5.0
+PSA,PUBLIC STORAGE INCORPORATED,"52,186 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Specialized REITs,loading,32.0
+PSX,PHILLIPS 66,"52,325 M",Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing,loading,15.0
+PTC,PTC INC,"14,588 M",Information Technology,Software,Application Software,loading,2.0
+PVH,PVH CORPORATION,"4,026 M",Consumer Discretionary,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",loading,83.0
+PWR,QUANTA SERVICES INCORPORATED,"20,892 M",Industrials,Construction & Engineering,Construction & Engineering,loading,14.0
+PXD,PIONEER NATURAL RESOURCES COMPANY,"60,438 M",Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,loading,14.0
+PYPL,PAYPAL HOLDINGS INC,"92,057 M",Information Technology,IT Services,Data Processing & Outsourced Services,loading,15.0
+QCOM,QUALCOMM INCORPORATED,"140,293 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,loading,13.0
+QRVO,QORVO INC,"10,071 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,loading,16.0
+RCL,ROYAL CARIBBEAN CRUISES LTD.,"15,143 M",Consumer Discretionary,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",loading,30.0
+RE,"EVEREST RE GROUP, LTD.","12,882 M",Financials,Insurance,Reinsurance,loading,6.0
+REG,REGENCY CENTERS CORPORATION,"11,253 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Retail REITs,loading,36.0
+REGN,REGENERON PHARMACEUTICALS INCORPORATED,"80,082 M",Health Care,Biotechnology,Biotechnology,loading,6.0
+RF,REGIONS FINANCIAL CORP,"21,249 M",Financials,Banks,Regional Banks,loading,6.0
+RHI,ROBERT HALF INTERNATIONAL INC,"8,370 M",Industrials,Professional Services,Human Resource & Employment Services,loading,41.0
+RJF,"RAYMOND JAMES FINANCIAL, INC.","25,892 M",Financials,Capital Markets,Investment Banking & Brokerage,loading,18.0
+RL,RALPH LAUREN CORPORATION,"7,066 M",Consumer Discretionary,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",loading,14.0
+RMD,RESMED INC.,"33,595 M",Health Care,Health Care Equipment & Supplies,Health Care Equipment,loading,4.0
+ROK,"ROCKWELL AUTOMATION, INC.","30,619 M",Industrials,Electrical Equipment,Electrical Components & Equipment,loading,30.0
+ROL,"ROLLINS, INC.","19,561 M",Industrials,Commercial Services & Supplies,Environmental & Facilities Services,loading,44.0
+ROP,ROPER TECHNOLOGIES INC,"45,986 M",Information Technology,Software,Application Software,loading,1.0
+ROST,ROSS STORES INCORPORATED,"40,270 M",Consumer Discretionary,Specialty Retail,Apparel Retail,loading,12.0
+RSG,"REPUBLIC SERVICES, INC.","42,954 M",Industrials,Commercial Services & Supplies,Environmental & Facilities Services,loading,9.0
+RTX,RAYTHEON TECHNOLOGIES CORP,"142,787 M",Industrials,Aerospace & Defense,Aerospace & Defense,loading,4.0
+SBAC,SBA COMMUNICATIONS CORPORATION,"32,132 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Specialized REITs,loading,29.0
+SBNY,SIGNATURE BANK,"8,779 M",Financials,Banks,Regional Banks,loading,65.0
+SBUX,STARBUCKS CORPORATION,"114,229 M",Consumer Discretionary,"Hotels, Restaurants & Leisure",Restaurants,loading,8.0
+SCHW,CHARLES SCHWAB CORP,"151,971 M",Financials,Capital Markets,Investment Banking & Brokerage,loading,0.0
+SEDG,SOLAREDGE TECHNOLOGIES INC,"17,118 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductor Equipment,loading,23.0
+SEE,SEALED AIR CORPORATION,"7,534 M",Materials,Containers & Packaging,Paper Packaging,loading,17.0
+SHW,SHERWIN-WILLIAMS CO,"64,786 M",Materials,Chemicals,Specialty Chemicals,loading,34.0
+SIVB,SVB FINANCIAL GROUP,"13,133 M",Financials,Banks,Regional Banks,loading,80.0
+SJM,J M SMUCKER CO,"15,939 M",Consumer Staples,Food Products,Packaged Foods & Meats,loading,9.0
+SLB,SCHLUMBERGER NV,"72,913 M",Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,loading,18.0
+SNA,SNAP-ON INCORPORATED,"12,819 M",Industrials,Machinery,Industrial Machinery,loading,1.0
+SNPS,"SYNOPSYS, INC.","51,117 M",Information Technology,Software,Application Software,loading,19.0
+SO,SOUTHERN CO,"72,244 M",Utilities,Electric Utilities,Electric Utilities,loading,38.0
+SPG,"SIMON PROPERTY GROUP, INC.","39,107 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Retail REITs,loading,4.0
+SPGI,S&P GLOBAL INC,"116,724 M",Financials,Capital Markets,Financial Exchanges & Data,loading,25.0
+SRE,SEMPRA ENERGY,"51,236 M",Utilities,Multi-Utilities,Multi-Utilities,loading,39.0
+STE,STERIS PLC,"18,019 M",Health Care,Health Care Equipment & Supplies,Health Care Equipment,loading,26.0
+STT,STATE STREET CORP,"28,273 M",Financials,Capital Markets,Asset Management & Custody Banks,loading,10.0
+STX,SEAGATE TECHNOLOGY HOLDINGS PLC,"11,316 M",Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",loading,16.0
+STZ,"CONSTELLATION BRANDS, INC.","47,342 M",Consumer Staples,Beverages,Distillers & Vintners,loading,10.0
+SWK,STANLEY BLACK & DECKER INCORPORATED,"12,173 M",Industrials,Machinery,Industrial Machinery,loading,48.0
+SWKS,"SKYWORKS SOLUTIONS, INC.","15,241 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,loading,16.0
+SYF,SYNCHRONY FINANCIAL,"16,598 M",Financials,Consumer Finance,Consumer Finance,loading,18.0
+SYK,STRYKER CORPORATION,"87,149 M",Health Care,Health Care Equipment & Supplies,Health Care Equipment,loading,0.0
+SYY,SYSCO CORPORATION,"43,612 M",Consumer Staples,Food & Staples Retailing,Food Distributors,loading,0.0
+T,AT&T INC.,"136,054 M",Communication Services,Diversified Telecommunication Services,Integrated Telecommunication Services,loading,0.0
+TAP,MOLSON COORS BEVERAGE CO,"11,966 M",Consumer Staples,Beverages,Brewers,loading,0.0
+TDG,TRANSDIGM GROUP INCORPORATED,"34,748 M",Industrials,Aerospace & Defense,Aerospace & Defense,loading,3.0
+TDY,TELEDYNE TECHNOLOGIES INCORPORATED,"19,683 M",Information Technology,"Electronic Equipment, Instruments & Components",Electronic Equipment & Instruments,loading,4.0
+TECH,BIO-TECHNE CORP,"13,198 M",Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,loading,6.0
+TEL,TE CONNECTIVITY LTD,"40,371 M",Information Technology,"Electronic Equipment, Instruments & Components",Electronic Manufacturing Services,loading,7.0
+TER,"TERADYNE, INC.","14,646 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductor Equipment,loading,6.0
+TFC,TRUIST FINANCIAL CORP,"61,602 M",Financials,Banks,Regional Banks,loading,13.0
+TFX,TELEFLEX INCORPORATED,"10,587 M",Health Care,Health Care Equipment & Supplies,Health Care Equipment,loading,4.0
+TGT,TARGET CORPORATION,"75,217 M",Consumer Discretionary,Multiline Retail,General Merchandise Stores,loading,29.0
+TJX,TJX COMPANIES INC,"93,511 M",Consumer Discretionary,Specialty Retail,Apparel Retail,loading,9.0
+TMO,THERMO FISHER SCIENTIFIC INC.,"214,645 M",Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,loading,15.0
+TMUS,T-MOBILE US INC,"186,772 M",Communication Services,Wireless Telecommunication Services,Wireless Telecommunication Services,loading,4.0
+TPR,TAPESTRY INC,"8,906 M",Consumer Discretionary,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",loading,9.0
+TRMB,TRIMBLE INC,"14,479 M",Information Technology,"Electronic Equipment, Instruments & Components",Electronic Equipment & Instruments,loading,31.0
+TROW,T ROWE PRICE GROUP INC,"27,799 M",Financials,Capital Markets,Asset Management & Custody Banks,loading,42.0
+TRV,TRAVELERS COMPANIES INC,"44,060 M",Financials,Insurance,Property & Casualty Insurance,loading,2.0
+TSCO,<empty>,"24,938 M",Consumer Discretionary,Specialty Retail,Specialty Stores,loading,10.0
+TSLA,TESLA INC,"578,500 M",Consumer Discretionary,Automobiles,Automobile Manufacturers,loading,45.0
+TSN,"TYSON FOODS, INC.","24,143 M",Consumer Staples,Food Products,Packaged Foods & Meats,loading,16.0
+TT,<empty>,"41,306 M",Industrials,Building Products,Building Products,loading,9.0
+TTWO,TAKE-TWO INTERACTIVE SOFTWARE INC,"17,311 M",Communication Services,Entertainment,Interactive Home Entertainment,loading,16.0
+TWTR,TWITTER INC,"41,094 M",Communication Services,Interactive Media & Services,Interactive Media & Services,loading,0.0
+TXN,TEXAS INSTRUMENTS INCORPORATED,"162,437 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,loading,15.0
+TXT,TEXTRON INC.,"14,854 M",Industrials,Aerospace & Defense,Aerospace & Defense,loading,42.0
+TYL,"TYLER TECHNOLOGIES, INC.","13,868 M",Information Technology,Software,Application Software,loading,19.0
+UA,"UNDER ARMOUR, INC.","3,812 M",Consumer Discretionary,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",loading,22.0
+UAA,"UNDER ARMOUR, INC.","4,364 M",Consumer Discretionary,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",loading,23.0
+UAL,UNITED AIRLINES HOLDINGS INC,"14,283 M",Industrials,Airlines,Airlines,loading,0.0
+UDR,UDR INCORPORATION,"13,061 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Residential REITs,loading,86.0
+UHS,"UNIVERSAL HEALTH SERVICES, INC.","9,258 M",Health Care,Health Care Providers & Services,Health Care Facilities,loading,19.0
+ULTA,ULTA BEAUTY INC,"22,915 M",Consumer Discretionary,Specialty Retail,Specialty Stores,loading,50.0
+UNH,UNITEDHEALTH GROUP INCORPORATED,"494,934 M",Health Care,Health Care Providers & Services,Managed Health Care,loading,10.0
+UNP,UNION PACIFIC CORPORATION,"130,657 M",Industrials,Road & Rail,Railroads,loading,31.0
+UPS,"UNITED PARCEL SERVICE, INC.","158,142 M",Industrials,Air Freight & Logistics,Air Freight & Logistics,loading,12.0
+URI,"UNITED RENTALS, INC.","24,843 M",Industrials,Trading Companies & Distributors,Trading Companies & Distributors,loading,24.0
+USB,US BANCORP,"65,540 M",Financials,Banks,Diversified Banks,loading,4.0
+V,VISA INCORPORATION,"448,430 M",Information Technology,IT Services,Data Processing & Outsourced Services,loading,2.0
+VFC,VF CORP,"13,118 M",Consumer Discretionary,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",loading,69.0
+VLO,VALERO ENERGY CORPORATION,"53,669 M",Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing,loading,34.0
+VMC,VULCAN MATERIALS COMPANY,"24,226 M",Materials,Construction Materials,Construction Materials,loading,17.0
+VNO,VORNADO REALTY TRUST,"4,730 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Office REITs,loading,28.0
+VRSK,VERISK ANALYTICS INCORPORATION,"28,158 M",Industrials,Professional Services,Research & Consulting Services,loading,10.0
+VRSN,VERISIGN INCORPORATED,"21,130 M",Information Technology,IT Services,Internet Services & Infrastructure,loading,11.0
+VRTX,VERTEX PHARMACEUTICALS INC,"81,156 M",Health Care,Biotechnology,Biotechnology,loading,1.0
+VTR,VENTAS INCORPORATED,"17,955 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Health Care REITs,loading,31.0
+VTRS,VIATRIS INC,"13,364 M",Health Care,Pharmaceuticals,Pharmaceuticals,loading,2.0
+VZ,VERIZON COMMUNICATIONS,"163,457 M",Communication Services,Diversified Telecommunication Services,Integrated Telecommunication Services,loading,24.0
+WAB,WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP,"18,183 M",Industrials,Machinery,Construction Machinery & Heavy Trucks,loading,0.0
+WAT,WATERS CORPORATION,"19,876 M",Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,loading,2.0
+WBA,WALGREENS BOOTS ALLIANCE INC,"36,115 M",Consumer Staples,Food & Staples Retailing,Drug Retail,loading,13.0
+WBD,WARNER BROS DISCOVERY INC,"27,538 M",Communication Services,Entertainment,Movies & Entertainment,loading,21.0
+WDC,WESTERN DIGITAL CORPORATION,"11,753 M",Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",loading,19.0
+WEC,WEC ENERGY GROUP INC,"30,935 M",Utilities,Multi-Utilities,Multi-Utilities,loading,37.0
+WELL,WELLTOWER INC,"32,769 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Health Care REITs,loading,32.0
+WFC,WELLS FARGO & COMPANY,"180,351 M",Financials,Banks,Diversified Banks,loading,0.0
+WHR,WHIRLPOOL CORPORATION,"8,082 M",Consumer Discretionary,Household Durables,Household Appliances,loading,3.0
+WM,"WASTE MANAGEMENT, INC.","67,322 M",Industrials,Commercial Services & Supplies,Environmental & Facilities Services,loading,21.0
+WMB,WILLIAMS COMPANIES INC,"41,216 M",Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,loading,23.0
+WMT,WALMART INC,"413,704 M",Consumer Staples,Food & Staples Retailing,Hypermarkets & Super Centers,loading,2.0
+WRB,W R BERKLEY CORP,"19,746 M",Financials,Insurance,Property & Casualty Insurance,loading,13.0
+WRK,WESTROCK CO,"9,573 M",Materials,Containers & Packaging,Paper Packaging,loading,2.0
+WST,"WEST PHARMACEUTICAL SERVICES, INC.","16,884 M",Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,loading,38.0
+WTW,WILLIS TOWERS WATSON PLC,"26,119 M",Financials,Insurance,Insurance Brokers,loading,23.0
+WY,WEYERHAEUSER CO,"23,660 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Specialized REITs,loading,17.0
+WYNN,"WYNN RESORTS, LIMITED","8,539 M",Consumer Discretionary,"Hotels, Restaurants & Leisure",Casinos & Gaming,loading,32.0
+XEL,XCEL ENERGY INC.,"37,870 M",Utilities,Electric Utilities,Electric Utilities,loading,41.0
+XOM,EXXON MOBIL CORP,"467,879 M",Energy,"Oil, Gas & Consumable Fuels",Integrated Oil & Gas,loading,11.0
+XRAY,DENTSPLY SIRONA INC,"6,658 M",Health Care,Health Care Equipment & Supplies,Health Care Supplies,loading,30.0
+XYL,XYLEM INC,"20,410 M",Industrials,Machinery,Industrial Machinery,loading,13.0
+YUM,"YUM! BRANDS, INC.","35,473 M",Consumer Discretionary,"Hotels, Restaurants & Leisure",Restaurants,loading,14.0
+ZBH,ZIMMER BIOMET HOLDINGS INC,"24,765 M",Health Care,Health Care Equipment & Supplies,Health Care Equipment,loading,9.0
+ZBRA,ZEBRA TECHNOLOGIES CORPORATION,"13,974 M",Information Technology,"Electronic Equipment, Instruments & Components",Electronic Equipment & Instruments,loading,28.0
+ZION,ZIONS BANCORP,"7,708 M",Financials,Banks,Regional Banks,loading,10.0
+ZTS,ZOETIS INC,"70,130 M",Health Care,Pharmaceuticals,Pharmaceuticals,loading,21.0

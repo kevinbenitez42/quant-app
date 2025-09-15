@@ -1,0 +1,8 @@
+# Ignore a Folder
+__pycache__/              # Python cache files
+.ipynb_checkpoints/       # Jupyter notebook checkpoints
+company_data/             # Whole company_data folder
+csv_files/                # Whole csv_files folder
+old projects/            # Folder with spaces
+Notebooks/ 
+Quantapp/

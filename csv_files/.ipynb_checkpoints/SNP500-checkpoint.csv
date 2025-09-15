@@ -1,0 +1,132 @@
+﻿Watchlist '.Equity / Holdings / S&P 500'
+
+.Equity / Holdings / S&P 500
+Symbol,Market Cap,Sector,Industry,Sub-Industry,%Change,%IV_Change,IV_PERC,RSI,Beta,DTE (earnings)
+UAL,"16,814 M",Industrials,Airlines,Airlines,+1.20%,-0.02,75.0,94.2,1.589,30.0
+AAL,"13,107 M",Industrials,Airlines,Airlines,-0.20%,0.08,85.0,82.92,1.742,30.0
+CERN,"27,545 M",Health Care,Health Care Technology,Health Care Technology,+0.39%,-0.17,NaN,81.87,.7978,8.0
+HST,"14,687 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Hotel & Resort REITs,-0.39%,0.08,90.0,80.06,1.304,8.0
+IBM,"124,330 M",Information Technology,IT Services,IT Consulting & Other Services,-1.14%,-0.16,69.0,77.05,1.119,30.0
+TWTR,"37,362 M",Communication Services,Interactive Media & Services,Interactive Media & Services,+3.93%,0.0,95.0,75.81,.8189,4.0
+DOW,"49,875 M",Materials,Chemicals,Commodity Chemicals,-1.45%,0.0,62.0,68.85,1,30.0
+WY,"31,019 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Specialized REITs,-0.50%,0.07,74.0,63.28,1.732,5.0
+DAL,"28,009 M",Industrials,Airlines,Airlines,-2.33%,0.1,79.0,60.98,1.3,30.0
+WDC,"15,477 M",Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",-1.55%,0.03,95.0,59.17,1.665,4.0
+KHC,"52,891 M",Consumer Staples,Food Products,Packaged Foods & Meats,-1.86%,0.18,93.0,55.14,1,3.0
+PG,"386,887 M",Consumer Staples,Household Products,Household Products,-0.84%,-0.11,66.0,51.88,.4345,30.0
+PPL,"21,992 M",Utilities,Electric Utilities,Electric Utilities,-1.58%,0.09,78.0,51.14,.8555,9.0
+TSLA,"1,038,727 M",Consumer Discretionary,Automobiles,Automobile Manufacturers,-0.37%,0.04,46.0,50.88,1.5,30.0
+MO,"100,660 M",Consumer Staples,Tobacco,Tobacco,-1.77%,0.16,78.0,50.59,.625,4.0
+PLD,"124,891 M",Real Estate,Equity Real Estate Investment Trusts (REITs),Industrial REITs,-1.20%,-0.03,80.0,47.58,.8785,30.0
+PM,"159,178 M",Consumer Staples,Tobacco,Tobacco,-2.26%,0.0,69.0,46.82,.8081,30.0
+LUV,"27,775 M",Industrials,Airlines,Airlines,-3.16%,0.06,86.0,46.15,1.052,4.0
+KO,"282,858 M",Consumer Staples,Beverages,Soft Drinks,-1.45%,0.24,92.0,44.75,.6772,1.0
+T,"139,744 M",Communication Services,Diversified Telecommunication Services,Integrated Telecommunication Services,-3.41%,-0.14,69.0,44.7,.6734,30.0
+JNJ,"477,380 M",Health Care,Pharmaceuticals,Pharmaceuticals,-0.99%,-0.06,47.0,42.8,.7214,30.0
+SLB,"58,857 M",Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,+2.46%,0.08,93.0,42.18,2.251,0.0
+WBA,"39,336 M",Consumer Staples,Food & Staples Retailing,Drug Retail,-2.71%,0.04,56.0,42.18,.5752,30.0
+MMM,"84,903 M",Industrials,Industrial Conglomerates,Industrial Conglomerates,-1.71%,0.11,98.0,41.45,.9756,2.0
+TGT,"111,757 M",Consumer Discretionary,Multiline Retail,General Merchandise Stores,-2.62%,0.1,97.0,40.32,1.027,18.0
+BBWI,"12,738 M",Consumer Discretionary,Specialty Retail,Specialty Stores,-3.64%,0.1,79.0,39.87,1.925,18.0
+ABT,"210,983 M",Health Care,Health Care Equipment & Supplies,Health Care Equipment,-3.02%,0.04,88.0,39.59,.7104,30.0
+BWA,"9,085 M",Consumer Discretionary,Auto Components,Auto Parts & Equipment,-2.27%,0.07,92.0,38.71,1.421,8.0
+WMT,"431,801 M",Consumer Staples,Food & Staples Retailing,Hypermarkets & Super Centers,-1.88%,0.1,91.0,36.95,.5416,17.0
+GILD,"78,173 M",Health Care,Biotechnology,Biotechnology,-2.35%,-0.12,66.0,36.1,.4042,4.0
+PEP,"238,126 M",Consumer Staples,Beverages,Soft Drinks,-1.54%,0.18,90.0,35.53,.6529,1.0
+MAR,"58,739 M",Consumer Discretionary,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",-2.54%,0.08,87.0,34.17,1.739,8.0
+IP,"17,890 M",Materials,Containers & Packaging,Paper Packaging,-3.96%,0.05,83.0,33.63,.9964,4.0
+HPE,"20,477 M",Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",-3.49%,0.12,74.0,33.46,1.25,26.0
+WMB,"42,728 M",Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,-1.63%,0.15,88.0,33.38,1.295,6.0
+RCL,"20,844 M",Consumer Discretionary,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",-2.01%,0.12,71.0,33.13,2.76,9.0
+CSX,"75,055 M",Industrials,Road & Rail,Railroads,-4.90%,-0.07,90.0,32.66,1.239,30.0
+MGM,"17,883 M",Consumer Discretionary,"Hotels, Restaurants & Leisure",Casinos & Gaming,-2.58%,0.14,83.0,32.11,2.406,6.0
+DUK,"87,984 M",Utilities,Electric Utilities,Electric Utilities,-0.87%,0.16,94.0,31.74,.3721,11.0
+INTC,"190,288 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,-2.02%,0.08,98.0,30.57,.5552,4.0
+LVS,"27,809 M",Consumer Discretionary,"Hotels, Restaurants & Leisure",Casinos & Gaming,-2.18%,0.09,95.0,30.45,1.372,3.0
+NCLH,"8,813 M",Consumer Discretionary,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",-3.25%,0.07,78.0,30.07,3.094,9.0
+CSCO,"213,358 M",Information Technology,Communications Equipment,Communications Equipment,-2.69%,0.08,94.0,29.48,.9261,18.0
+TJX,"73,699 M",Consumer Discretionary,Specialty Retail,Apparel Retail,-4.90%,0.11,96.0,29.36,.9497,18.0
+HLT,"42,819 M",Consumer Discretionary,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",-2.30%,0.04,91.0,29.23,1.296,7.0
+HD,"310,123 M",Consumer Discretionary,Specialty Retail,Home Improvement Retail,-3.30%,0.14,95.0,28.72,1.038,17.0
+DHI,"25,283 M",Consumer Discretionary,Household Durables,Homebuilding,-2.61%,0.08,98.0,28.27,1.689,2.0
+CI,"81,205 M",Health Care,Health Care Providers & Services,Health Care Services,-3.61%,0.12,90.0,27.57,.8265,10.0
+PHM,"10,118 M",Consumer Discretionary,Household Durables,Homebuilding,-3.23%,0.09,98.0,27.3,1.541,4.0
+C,"99,484 M",Financials,Banks,Diversified Banks,-2.66%,0.11,86.0,26.92,1.707,30.0
+CCL,"22,145 M",Consumer Discretionary,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",-3.43%,0.12,75.0,26.66,2.377,30.0
+MS,"148,817 M",Financials,Capital Markets,Investment Banking & Brokerage,-4.69%,0.17,88.0,26.59,1.457,30.0
+BMY,"160,984 M",Health Care,Pharmaceuticals,Pharmaceuticals,-2.33%,0.05,82.0,26.42,.5538,5.0
+MPC,"48,641 M",Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing,-1.87%,0.12,55.0,26.29,2.086,7.0
+LOW,"130,281 M",Consumer Discretionary,Specialty Retail,Home Improvement Retail,-3.89%,0.12,98.0,26.14,1.306,18.0
+NKE,"203,126 M",Consumer Discretionary,"Textiles, Apparel & Luxury Goods",Footwear,-4.72%,0.15,77.0,25.33,.9517,30.0
+GM,"57,888 M",Consumer Discretionary,Automobiles,Automobile Manufacturers,-2.14%,0.12,94.0,25.2,1.254,2.0
+ABBV,"273,757 M",Health Care,Biotechnology,Biotechnology,-2.23%,-0.02,90.0,24.82,.7837,5.0
+WFC,"175,624 M",Financials,Banks,Diversified Banks,-3.01%,0.07,78.0,24.78,1.197,30.0
+GLW,"28,583 M",Information Technology,"Electronic Equipment, Instruments & Components",Electronic Components,-2.42%,0.04,91.0,24.62,.9305,2.0
+BA,"104,451 M",Industrials,Aerospace & Defense,Aerospace & Defense,-2.26%,0.15,94.0,24.56,1.505,3.0
+CVS,"133,526 M",Health Care,Health Care Providers & Services,Health Care Services,-3.33%,0.12,95.0,24.32,.7864,8.0
+NRG,"9,180 M",Utilities,Electric Utilities,Electric Utilities,-4.60%,0.14,76.0,23.99,.9134,10.0
+HON,"130,673 M",Industrials,Industrial Conglomerates,Industrial Conglomerates,-2.71%,0.17,96.0,23.05,1.123,5.0
+TXN,"159,944 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,-2.21%,0.09,98.0,23.04,.9489,2.0
+DLTR,"37,704 M",Consumer Discretionary,Multiline Retail,General Merchandise Stores,-3.22%,0.29,56.0,23.0,.7342,24.0
+JPM,"372,454 M",Financials,Banks,Diversified Banks,-2.87%,0.11,87.0,22.9,1.123,30.0
+CBRE,"27,965 M",Real Estate,Real Estate Management & Development,Real Estate Services,-2.28%,0.14,93.0,22.17,1.462,9.0
+HPQ,"38,753 M",Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",-3.92%,0.19,84.0,22.02,1.017,24.0
+VZ,"218,022 M",Communication Services,Diversified Telecommunication Services,Integrated Telecommunication Services,-5.64%,0.0,73.0,21.52,.3643,0.0
+MU,"77,508 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,-2.13%,0.16,90.0,21.33,1.156,30.0
+KMI,"43,422 M",Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,-3.23%,0.04,51.0,21.11,.9748,30.0
+ADI,"81,245 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,-2.18%,-0.04,75.0,21.08,1.076,18.0
+MRO,"17,964 M",Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,-4.18%,0.07,86.0,20.6,2.917,8.0
+GE,"98,133 M",Industrials,Industrial Conglomerates,Industrial Conglomerates,-2.89%,0.12,96.0,20.38,.9586,2.0
+OXY,"53,048 M",Energy,"Oil, Gas & Consumable Fuels",Integrated Oil & Gas,-4.36%,0.14,96.0,19.94,2.415,12.0
+MET,"57,392 M",Financials,Insurance,Life & Health Insurance,-2.82%,0.16,82.0,19.73,1.221,8.0
+TPR,"8,701 M",Consumer Discretionary,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",-4.57%,0.1,94.0,19.72,1.599,14.0
+BAC,"302,813 M",Financials,Banks,Diversified Banks,-3.47%,-0.01,90.0,19.7,1.414,30.0
+MRK,"213,873 M",Health Care,Pharmaceuticals,Pharmaceuticals,-1.90%,0.1,71.0,19.61,.4612,4.0
+F,"60,805 M",Consumer Discretionary,Automobiles,Automobile Manufacturers,-3.63%,0.08,88.0,19.41,1.187,3.0
+XOM,"359,732 M",Energy,"Oil, Gas & Consumable Fuels",Integrated Oil & Gas,-2.18%,0.13,91.0,18.68,1.221,5.0
+FANG,"23,082 M",Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,-5.28%,0.06,82.0,18.46,2.421,6.0
+SBUX,"89,631 M",Consumer Discretionary,"Hotels, Restaurants & Leisure",Restaurants,-1.32%,0.11,98.0,18.37,.8829,7.0
+FIS,"61,055 M",Information Technology,IT Services,Data Processing & Outsourced Services,-2.94%,-0.01,82.0,18.21,.7407,7.0
+ADBE,"193,097 M",Information Technology,Software,Application Software,-2.11%,0.24,87.0,17.97,1.023,30.0
+DVN,"38,570 M",Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,-5.04%,0.17,88.0,17.88,2.876,6.0
+COP,"124,434 M",Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,-2.70%,0.13,90.0,17.78,1.46,9.0
+TMUS,"160,696 M",Communication Services,Wireless Telecommunication Services,Wireless Telecommunication Services,-2.63%,0.14,96.0,17.68,.4916,3.0
+CAT,"115,913 M",Industrials,Machinery,Construction Machinery & Heavy Trucks,-6.55%,0.15,98.0,17.6,.9769,4.0
+AFL,"41,150 M",Financials,Insurance,Life & Health Insurance,-3.25%,0.17,93.0,17.56,.9456,3.0
+MSFT,"2,054,366 M",Information Technology,Software,Systems Software,-2.41%,0.25,99.0,17.22,.8885,2.0
+UA,"6,831 M",Consumer Discretionary,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",-5.10%,-0.06,84.0,17.18,1.499,10.0
+V,"436,735 M",Information Technology,IT Services,Data Processing & Outsourced Services,-3.83%,0.19,97.0,16.94,.9094,2.0
+UAA,"7,369 M",Consumer Discretionary,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",-5.50%,0.02,91.0,16.91,1.43,10.0
+QCOM,"149,677 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,-2.42%,0.11,96.0,16.86,1.178,3.0
+AMD,"143,436 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,-1.90%,0.14,98.0,16.12,1.768,7.0
+CMCSA,"205,718 M",Communication Services,Media,Cable & Satellite,-3.32%,0.16,92.0,15.73,.9378,4.0
+USB,"75,533 M",Financials,Banks,Diversified Banks,-3.44%,0.16,85.0,15.48,1.066,30.0
+EBAY,"30,163 M",Consumer Discretionary,Internet & Direct Marketing Retail,Internet & Direct Marketing Retail,-2.92%,0.1,96.0,15.38,1.112,8.0
+DISH,"16,204 M",Communication Services,Media,Cable & Satellite,-2.20%,0.11,98.0,15.15,2.047,4.0
+NLSN,"9,647 M",Industrials,Professional Services,Research & Consulting Services,-0.37%,0.19,8.0,15.05,1.581,4.0
+AAPL,"2,640,322 M",Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",-2.78%,0.2,97.0,14.67,1.168,4.0
+AES,"15,010 M",,,,-2.26%,0.16,97.0,14.36,.9419,9.0
+VTRS,"12,434 M",Health Care,Pharmaceuticals,Pharmaceuticals,-3.47%,-0.17,86.0,14.13,1.479,11.0
+UNP,"147,146 M",Industrials,Road & Rail,Railroads,-4.13%,0.05,93.0,13.84,1.165,30.0
+HAL,"33,942 M",Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,-3.23%,0.11,93.0,13.45,2.74,30.0
+APA,"14,123 M",Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,-3.51%,0.07,90.0,12.82,4.561,8.0
+DIS,"215,326 M",Communication Services,Entertainment,Movies & Entertainment,-2.79%,0.25,100.0,12.69,1.135,13.0
+NVDA,"488,658 M",Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,-3.31%,0.19,97.0,12.18,1.435,23.0
+CVX,"316,245 M",Energy,"Oil, Gas & Consumable Fuels",Integrated Oil & Gas,-2.21%,0.15,95.0,12.1,1.139,5.0
+LUMN,"11,164 M",Communication Services,Diversified Telecommunication Services,Alternative Carriers,-6.89%,-0.13,92.0,12.06,1.057,8.0
+SCHW,"133,277 M",Financials,Capital Markets,Investment Banking & Brokerage,-4.03%,0.15,93.0,11.86,1,30.0
+BRK/B,"741,477 M",Financials,Diversified Financial Services,Multi-Sector Holdings,-2.34%,0.18,85.0,9.95,.8369,5.0
+FB,"499,772 M",Communication Services,Interactive Media & Services,Interactive Media & Services,-2.11%,0.44,100.0,9.53,1.375,3.0
+MOS,"24,170 M",Materials,Chemicals,Fertilizers & Agricultural Chemicals,-2.75%,0.09,98.0,9.15,1.752,6.0
+CRM,"169,716 M",Information Technology,Software,Application Software,-3.27%,0.27,92.0,8.27,1.066,24.0
+MRNA,"56,560 M",Health Care,Biotechnology,Biotechnology,-2.88%,0.1,91.0,7.66,.2396,8.0
+GPS,"4,334 M",Consumer Discretionary,Specialty Retail,Apparel Retail,-17.98%,0.45,93.0,7.58,1.97,24.0
+PYPL,"99,906 M",Information Technology,IT Services,Data Processing & Outsourced Services,-3.77%,0.28,100.0,7.29,1.258,3.0
+CF,"20,271 M",Materials,Chemicals,Fertilizers & Agricultural Chemicals,-2.44%,0.06,99.0,7.02,1.065,8.0
+ATVI,"61,259 M",Communication Services,Entertainment,Interactive Home Entertainment,-0.37%,0.62,23.0,6.79,.5434,1.0
+FCX,"60,780 M",Materials,Metals & Mining,Copper,-6.76%,0.1,89.0,6.58,2.011,30.0
+NEM,"59,061 M",Materials,Metals & Mining,Gold,-3.30%,0.02,93.0,6.35,.2537,0.0
+NFLX,"95,750 M",Communication Services,Entertainment,Movies & Entertainment,-1.24%,0.05,99.0,5.57,.9368,30.0
+BKR,"31,703 M",Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,-2.16%,0.04,91.0,4.84,1.604,30.0
+PFE,"271,827 M",Health Care,Pharmaceuticals,Pharmaceuticals,-2.00%,0.13,93.0,2.57,.7431,7.0
+NEE,"145,270 M",Utilities,Electric Utilities,Electric Utilities,-2.93%,0.1,90.0,0.91,.4047,30.0
