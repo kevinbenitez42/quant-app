@@ -1,3 +1,1 @@
-# quant-app
-# quant-app
-# quant-app
+My Core suite of quantitative analysis tools that I use for my personal investment portfolio
