@@ -1,0 +1,14 @@
+
+
+EconomicData:
+* Retrieves economic data including financial information, economic information, and Equity ticker Data
+
+
+
+Plotter:
+* This recieves a data series of some kind (It does not retreive data directly, nor does it compute anything) and plots the data in specific manner using a specific graph type
+
+
+Computation:
+* This recieves data of some kind as a parameter (It does not retrieve data information) and computes Metrics over it
+

@@ -3,6 +3,6 @@ __pycache__/              # Python cache files
 .ipynb_checkpoints/       # Jupyter notebook checkpoints
 company_data/             # Whole company_data folder
 csv_files/                # Whole csv_files folder
-old projects/            # Folder with spaces
-Notebooks/ 
-Quantapp/
+Quantapp/__pycache__/  # Quantapp package cache files
+Quantapp/.ipynb_checkpoints/  # Quantapp package notebook checkpoints
+
