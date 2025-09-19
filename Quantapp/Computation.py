@@ -734,7 +734,7 @@ class Computation:
             return -2
         else:
             return -3
-        
+    '''    
     def calculate_risk_adjusted_returns(self, data, windows, ratio_type='sharpe'):
         """
         Calculate risk-adjusted returns for a given price series using either the Sortino ratio or Sharpe ratio
@@ -784,7 +784,59 @@ class Computation:
         risk_adjusted_returns_df = pd.concat(risk_adjusted_returns_list, axis=1)
 
         return risk_adjusted_returns_df
-   
+    '''
+        
+    def calculate_risk_adjusted_returns(self, data, windows, ratio_type='sharpe'):
+        """
+        Calculate risk-adjusted returns for a given price series using either the Sortino ratio or Sharpe ratio
+        over multiple time frames. Internally, this converts price data into returns.
+
+        Parameters:
+        - series (pd.Series): The input time series of prices.
+        - windows (list of int): List of time frames (window sizes) for calculating risk-adjusted returns.
+        - ratio_type (str): The type of risk-adjusted return to compute ('sortino' or 'sharpe'). Default is 'sharpe'.
+
+        Returns:
+        - pd.DataFrame: DataFrame with risk-adjusted returns for each window size.
+        """
+
+        if not isinstance(windows, list):
+            raise ValueError("windows should be a list of integers representing time frames.")
+
+        # Convert price series to returns
+        returns = data.pct_change().dropna()
+
+        risk_adjusted_returns_list = []
+
+        for window in windows:
+            # Calculate the average return over the specified window
+            average_return = returns.rolling(window=window).mean()
+
+            if ratio_type == 'sortino':
+                # Correct downside deviation: sqrt(mean of squared negative returns)
+                downside_deviation = returns.where(returns < 0, 0).rolling(window=window).apply(
+                    lambda x: np.sqrt((x**2).mean()), raw=True
+                )
+                risk_adjusted_return = average_return / downside_deviation
+
+            elif ratio_type == 'sharpe':
+                # Calculate the standard deviation of returns
+                standard_deviation = returns.rolling(window=window).std()
+                risk_adjusted_return = average_return / standard_deviation
+
+            else:
+                raise ValueError("Invalid ratio_type. Choose 'sortino' or 'sharpe'.")
+
+            # Rename the resulting Series to reflect the ratio type and window
+            risk_adjusted_return = risk_adjusted_return.rename(f'{ratio_type}_ratio_{window}')
+            risk_adjusted_returns_list.append(risk_adjusted_return)
+
+        # Concatenate all ratio Series into one DataFrame
+        risk_adjusted_returns_df = pd.concat(risk_adjusted_returns_list, axis=1)
+
+        return risk_adjusted_returns_df
+            
+    
     def calculate_percentage_drop(self, ticker, n=14):
         """
         Calculate the percentage drop from the highest peak in a rolling window.

@@ -468,6 +468,10 @@ class Plotter:
             xref="x", yref="y",
             font=dict(size=14)
         )
+        
+                # Default view = last 3 years
+        default_view_years = 3
+        default_view_start = asset_spreads.index.max() - pd.DateOffset(years=default_view_years)
 
         # Set the layout height, title, and dark background
         fig.update_layout(
@@ -477,7 +481,7 @@ class Plotter:
             xaxis_title="Date",
             yaxis_title="Spread",
             xaxis=dict(
-                range=[spread.index.min(), spread.index.max()]  # Limit x-axis to the filtered date range
+                range=[default_view_start, spread.index.max()]  # Limit x-axis to the filtered date range
             ),
             updatemenus=[
                 dict(
@@ -752,11 +756,12 @@ class Plotter:
                 
             # Update height
             fig.update_layout(height=1000)
-            
+            default_view_years = 3
+            default_view_start = series.index.max() - pd.DateOffset(years=default_view_years)
             #add a dropdown menu to select the time frame of the x-axis
             fig.update_layout(
                 xaxis=dict(
-                    range=[series.index.min(), series.index.max()]  # Limit x-axis to the filtered date range
+                    range=[default_view_start, series.index.max()]  # Limit x-axis to the filtered date range
                 ),
                 updatemenus=[
                     dict(
